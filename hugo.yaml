@@ -3,3 +3,17 @@ languageCode: fi-FI
 title: Antti Koistinen
 theme: PaperMod
 copyright: Antti Koistinen
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: anttikoistinen.fi
+      name: anttikoistinen.fi
+      url: https://anttikoistinen.fi
+      weight: 30
