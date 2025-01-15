@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Antti Koistinen</title>
-    <link>https://anttikoistinen.fi/</link>
-    <description>Recent content on Antti Koistinen</description>
+    <title>Docs on Antti Koistinen</title>
+    <link>https://anttikoistinen.fi/docs/</link>
+    <description>Recent content in Docs on Antti Koistinen</description>
     <generator>Hugo</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen</copyright>
     <lastBuildDate>Wed, 15 Jan 2025 17:07:12 +0200</lastBuildDate>
-    <atom:link href="https://anttikoistinen.fi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://anttikoistinen.fi/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>https://anttikoistinen.fi/docs/test/</link>
