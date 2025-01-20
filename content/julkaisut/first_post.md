@@ -11,6 +11,4 @@ Ensimmäisenä lisäsin tänne kuitenkin lyhyet esittelytekstit [itsestäni]({{<
 
 Toiminimeni syntyi tarpeesta: minulta tiedusteltiin voisiko kauttani järjestyä eräs palvelu. Konsultoin pomoani ja omaa harkintaani ja  totesin, että kyseinen palvelu voisi syntyä yksityisenä ammatinharjoittajana.
 
-Vakaan harkinnan myötä syntyi myös päätös lähteä ehdolle kuntavaaleihin: olen ehdolla tänä keväänä Järvenpään vihreiden riveissä. Aion käyttää tätä sivua myös vaaleihin liittyvien aatosteni alustana. 
-
-Tältä sivulta löydät yhteystietoni
+Vakaan harkinnan myötä syntyi myös päätös lähteä ehdolle kuntavaaleihin: olen ehdolla tänä keväänä Järvenpään vihreiden riveissä. Aion käyttää tätä sivua myös vaaleihin liittyvien aatosteni alustana.
