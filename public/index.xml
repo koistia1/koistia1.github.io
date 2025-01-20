@@ -2,18 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Antti Koistinen</title>
-    <link>https://anttikoistinen.fi/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Antti Koistinen</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen</copyright>
-    <lastBuildDate>Mon, 20 Jan 2025 17:06:29 +0200</lastBuildDate>
-    <atom:link href="https://anttikoistinen.fi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jan 2025 17:38:03 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Q-itu Solutions</title>
+      <link>http://localhost:1313/q-itu/</link>
+      <pubDate>Mon, 20 Jan 2025 17:38:03 +0200</pubDate>
+      <guid>http://localhost:1313/q-itu/</guid>
+      <description>&lt;p&gt;Perustin Q-itu Solutions -toiminimen tammikuussa 2025. Yksityisenä elinkeinonharjoittajana tarjoan omaa osaamistani erikokoisille yrityksille ja muille ammatinharjoittajille. Olen käytettävissä erilaisissa toimeksiannoissa:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Minulla on yli 15 vuoden kokemus &lt;strong&gt;asiantuntijoiden kouluttamisesta&lt;/strong&gt; erilaisissa ympäristöissä, mm. erilaisista soveltavan kemian laboratoriotöistä, opinnäytetöiden ohjaamisesta, sekä johtajien kouluttamisesta partiossa.&lt;/li&gt;
+&lt;li&gt;Lähes viiden vuoden ajan toimin erilaisissa &lt;strong&gt;grant writer&lt;/strong&gt; -tehtävissä Spinverse Oy:ssä, keskittyen etenkin EU-hankehakemusten kirjoittamiseen ja konsortiohankkeiden valmisteluun.&lt;/li&gt;
+&lt;li&gt;Tutkimuksen ja teknologian kansantajuistaminen ja muunlainen &lt;strong&gt;tieteellinen kirjoittaminen&lt;/strong&gt; on minulle kiinnostavaa.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Yksityishenkilöille tarjoan valokuvauspalveluitani. Olen erikoistunut valokuvaamaan filmille, josta teen mustavalko- ja värivedoksia valokuvapaperille omassa kotipimiössäni.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Minusta</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 20 Jan 2025 17:32:33 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Olen vuodesta 2020 alkaen tehnyt väitöskirjaa Aalto-yliopiston kemian tekniikan korkeakoulussa. Väitöskirjani käsittelee selluloosan reaktiivisuutta, ja tutkimukseni keskeisiä sovelluskohteita löytyy esimerkiksi uusien tekstiilikuitujen alueelta. Pääsen väittelemään todennäköisesti kesään 2025 mennessä.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Eka julkaisu</title>
-      <link>https://anttikoistinen.fi/posts/first_post/</link>
+      <link>http://localhost:1313/posts/first_post/</link>
       <pubDate>Mon, 20 Jan 2025 17:06:29 +0200</pubDate>
-      <guid>https://anttikoistinen.fi/posts/first_post/</guid>
+      <guid>http://localhost:1313/posts/first_post/</guid>
       <description>&lt;p&gt;testi&lt;/p&gt;</description>
     </item>
   </channel>

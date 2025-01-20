@@ -7,17 +7,4 @@ copyright: Antti Koistinen
 defaultContentLanguage: fi
 languageCode: fi-FI
 
-menu:
-  main:
-    - identifier: categories
-      name: kategoriat
-      url: /categories/
-      weight: 10
-    - identifier: tags
-      name: tagit
-      url: /tags/
-      weight: 15
-    - identifier: anttikoistinen.fi
-      name: anttikoistinen.fi
-      url: https://anttikoistinen.fi
-      weight: 30
+sectionPagesMenu: main
