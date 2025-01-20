@@ -10,4 +10,4 @@ Perustin Q-itu Solutions -toiminimen tammikuussa 2025. Yksityisenä elinkeinonha
 * Lähes viiden vuoden ajan toimin erilaisissa **grant writer** -tehtävissä Spinverse Oy:ssä, keskittyen etenkin EU-hankehakemusten kirjoittamiseen ja konsortiohankkeiden valmisteluun.
 * Tutkimuksen ja teknologian kansantajuistaminen ja muunlainen **tieteellinen kirjoittaminen** on minulle kiinnostavaa.
 
-Yksityishenkilöille tarjoan valokuvauspalveluitani. Olen erikoistunut valokuvaamaan filmille, josta teen mustavalko- ja värivedoksia valokuvapaperille omassa kotipimiössäni.
+Yksityishenkilöille tarjoan **valokuvauspalveluitani**. Olen erikoistunut valokuvaamaan filmille, josta teen mustavalko- ja värivedoksia valokuvapaperille omassa kotipimiössäni.
