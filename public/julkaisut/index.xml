@@ -4,17 +4,21 @@
     <title>Julkaisut on Antti Koistinen</title>
     <link>http://localhost:1313/julkaisut/</link>
     <description>Recent content in Julkaisut on Antti Koistinen</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.141.0</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen © 2025</copyright>
     <lastBuildDate>Mon, 20 Jan 2025 17:06:29 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/julkaisut/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Eka julkaisu</title>
+      <title>Ensimmäinen julkaisu</title>
       <link>http://localhost:1313/julkaisut/first_post/</link>
       <pubDate>Mon, 20 Jan 2025 17:06:29 +0200</pubDate>
       <guid>http://localhost:1313/julkaisut/first_post/</guid>
-      <description>&lt;p&gt;testi&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hei!&lt;/p&gt;
+&lt;p&gt;Tervetuloa sivuilleni! Tällä hetkellä ne ovat vielä hitusen työn alla. Olen kuitenkin aktiivisesti kirjoittamassa tänne lisää sisältöä ja lisäämässä kuvia kaikenlaisesta kiinnostavasta.&lt;/p&gt;
+&lt;p&gt;Ensimmäisenä lisäsin tänne kuitenkin lyhyet esittelytekstit &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;itsestäni&lt;/a&gt; ja tammikuussa &lt;a href=&#34;http://localhost:1313/q-itu/&#34;&gt;perustamastani toiminimestä&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Toiminimeni syntyi tarpeesta: minulta tiedusteltiin voisiko kauttani järjestyä eräs palvelu. Konsultoin pomoani ja omaa harkintaani ja  totesin, että kyseinen palvelu voisi syntyä yksityisenä ammatinharjoittajana.&lt;/p&gt;
+&lt;p&gt;Vakaan harkinnan myötä syntyi myös päätös lähteä ehdolle kuntavaaleihin: olen ehdolla tänä keväänä Järvenpään vihreiden riveissä. Aion käyttää tätä sivua myös vaaleihin liittyvien aatosteni alustana.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

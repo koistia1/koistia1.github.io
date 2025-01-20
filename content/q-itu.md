@@ -11,3 +11,14 @@ Perustin Q-itu Solutions -toiminimen tammikuussa 2025. Yksityisenä elinkeinonha
 * Tutkimuksen ja teknologian kansantajuistaminen ja muunlainen **tieteellinen kirjoittaminen** on minulle kiinnostavaa.
 
 Yksityishenkilöille tarjoan **valokuvauspalveluitani**. Olen erikoistunut valokuvaamaan filmille, josta teen mustavalko- ja värivedoksia valokuvapaperille omassa kotipimiössäni.
+
+## Yhteystiedot
+
+Puhelin
+: +358 40 182 2489
+
+Sähköposti
+: koistinen[at]iki.fi
+
+Y-tunnus
+: 3501709-9
