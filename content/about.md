@@ -8,7 +8,7 @@ menus: main
 
 Olen vuodesta 2020 alkaen tehnyt väitöskirjaa Aalto-yliopiston kemian tekniikan korkeakoulussa. Väitöskirjani käsittelee selluloosan reaktiivisuutta, ja tutkimukseni keskeisiä sovelluskohteita löytyy esimerkiksi uusien tekstiilikuitujen alueelta. Pääsen väittelemään todennäköisesti kesään 2025 mennessä.
 
-Muutin kaupunkiin kesällä 2024, ja Järvenpää alkoi tuntua kodilta ensimmäisestä viikosta alkaen. Keväällä 2025 olen ehdolla vihreiden listoilla kuntavaaleissa.
+Muutin Järvenpäähän kesällä 2024, ja kaupunki alkoi tuntua kodilta ensimmäisestä viikosta alkaen. Keväällä 2025 olen ehdolla vihreiden listoilla kuntavaaleissa.
 
 Harrastuksiini kuuluu mieskuorolaulu [Polyteknikkojen Kuorossa](https://www.polyteknikkojenkuoro.fi) (1. tenori), partio, valokuvaus vanhoilla kameroilla ja vanhan vuoden 1989 Mercedes-Benz 190E -henkilöauton huoltaminen.
 
