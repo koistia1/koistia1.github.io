@@ -3,6 +3,13 @@ date: '2025-01-20T17:32:33+02:00'
 draft: false
 title: 'Minusta'
 menus: main
+#cover:
+#  image: "https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png"
+#  # can also paste direct link from external site
+#  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+#  alt: "<alt text>"
+#  caption: "<text>"
+#  relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 35-vuotias tutkija ja sivutoiminen yrittäjä Järvenpäästä.
 
