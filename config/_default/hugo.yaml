@@ -13,14 +13,14 @@ pluralizeListTitles: false
 params:
   profileMode:
     enabled: true
-    title: "<Title>" # optional default will be site title
-    subtitle: "This is subtitle"
-    imageUrl: "<image link>" # optional
-    imageTitle: "<title of image as alt>" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    #title: "<Title>" # optional default will be site title
+    #subtitle: "This is subtitle"
+    #imageUrl: "<image link>" # optional
+    #imageTitle: "<title of image as alt>" # optional
+    #imageWidth: 120 # custom size
+    #imageHeight: 120 # custom size
     buttons:
-      - name: Archive
+      - name: Antti
         url: "/about"
       - name: Q-Itu Solutions
         url: "/q-itu"
