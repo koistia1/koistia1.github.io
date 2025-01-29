@@ -2,6 +2,9 @@
 date: '2025-01-29T15:16:39+02:00'
 draft: false
 title: 'Ihmisoikeudet eivät ole sekoilua'
+author: Antti Koistinen
+description: 'Kirjoituksessa käsitellään tasa-arvoa, ihmisoikeuksia ja sukupuolivähemmistöjen oikeuksia vastauksena perussuomalaisten "Sekoilu seis" -kampanjaan. Esille tuodaan, miksi nämä aiheet ovat tärkeitä turvallisuuden ja talouden näkökulmasta sekä miksi keskustelun jatkaminen on välttämätöntä.'
+summary: 'Kirjoituksessa käsitellään tasa-arvoa, ihmisoikeuksia ja sukupuolivähemmistöjen oikeuksia vastauksena perussuomalaisten "Sekoilu seis" -kampanjaan. Esille tuodaan, miksi nämä aiheet ovat tärkeitä turvallisuuden ja talouden näkökulmasta sekä miksi keskustelun jatkaminen on välttämätöntä.'
 ---
 **Riikka Purra** ja Perussuomalaiset lanseerasivat yhdeksi kuntavaalikärjekseen ["Sekoilu seis"](https://youtu.be/yN5HzyKyCSA?t=865). Samaan hengenvetoon Purra lupasi tiedotustilaisuudessa, että perussuomalaiset valtuutetut aikovat jatkaa tärkeistä aiheistaan puhumista vaikka se muita harmittaisikin. Se on heidän oikeutensa, ja siksihän siellä valtuustoissa ollaan. 
 
