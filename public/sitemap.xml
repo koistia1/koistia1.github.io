@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-27T22:14:40+02:00</lastmod>
+    <lastmod>2025-01-29T15:16:39+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/julkaisut/</loc>
-    <lastmod>2025-01-27T22:14:40+02:00</lastmod>
+    <lastmod>2025-01-29T15:16:39+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/julkaisut/sekoilu_jatkukoon_-_ihmisoikeuksien_ja_tasa-arvon_puolesta/</loc>
+    <lastmod>2025-01-29T15:16:39+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/q-itu/</loc>
     <lastmod>2025-01-20T17:38:03+02:00</lastmod>
