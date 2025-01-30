@@ -40,22 +40,14 @@
   {{ $base := resources.Get "og_base.png" }}
   {{ $boldFont := resources.Get "/Inter_24pt-SemiBold.ttf"}}
   {{ $mediumFont := resources.Get "/Inter_24pt-Medium.ttf"}}
-  {{ $img := $base.Filter (images.Text .Site.Title (dict
+  {{ $img := $base.Filter (images.Text .Page.Title (dict
     "color" "#000000"
-    "size" 52
+    "size" 42
     "linespacing" 2
     "x" 640
-    "y" 305
-    "font" $boldFont
-  ))}}
-  {{ $img = $img.Filter (images.Text .Page.Title (dict
-    "color" "#000000"
-    "size" 48
-    "linespacing" 2
-    "x" 640
-    "y" 479
+    "y" 325
     "font" $mediumFont
-  ))}} 
+  ))}}
   {{ $img = resources.Copy (path.Join .Page.RelPermalink "og.png") $img }}
   <meta property="og:image" content="{{$img.Permalink}}">
   <meta property="og:image:width" content="{{$img.Width}}" />
@@ -68,20 +60,6 @@
   <meta name="twitter:image" content="{{$img.Permalink}}" />
 {{ end }}
 
-<!-- These rows commented out, testing above thing where an opengraph image is automatically generated. -->
-<!-- {{- if .Params.cover.image -}}
-  {{- if (ne .Params.cover.relative true) }}
-    <meta property="og:image" content="{{ .Params.cover.image | absURL }}">
-  {{- else}}
-    <meta property="og:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}">
-  {{- end}}
-{{- else }}
-  {{- with partial "_funcs/get-page-images" . }}
-    {{- range . | first 6 }}
-      <meta property="og:image" content="{{ .Permalink }}">
-    {{- end }}
-  {{- end }}
-{{- end }} -->
 
 {{- with .Params.audio }}
   {{- range . | first 6  }}
