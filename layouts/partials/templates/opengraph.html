@@ -37,7 +37,7 @@
 
 {{/* Generate opengraph image */}}
 {{- if .IsPage -}}
-  {{ $base := resources.Get "og_base.png" }}
+  {{ $base := resources.Get "/og_base.png" }}
   {{ $boldFont := resources.Get "/Inter_24pt-SemiBold.ttf"}}
   {{ $mediumFont := resources.Get "/Inter_24pt-Medium.ttf"}}
   {{ $img := $base.Filter (images.Text .Site.Title (dict
