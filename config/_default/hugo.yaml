@@ -39,4 +39,4 @@ params:
     favicon32x32: "/img/favicon-32x32.png"
     apple_touch_icon: "/img/apple-touch-icon.png"
 
-  # images: ["img/anttikoistinen-cover.png"]
+  images: ["img/anttikoistinen-cover.png"]
