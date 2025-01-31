@@ -14,9 +14,6 @@ Yksityishenkilöille tarjoan **valokuvauspalveluitani**. Olen erikoistunut valok
 
 ## Yhteystiedot
 
-Puhelin
-: +358 40 182 2489
-
 Sähköposti
 : koistinen[at]iki.fi
 
