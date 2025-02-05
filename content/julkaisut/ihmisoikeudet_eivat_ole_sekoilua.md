@@ -21,4 +21,4 @@ Mielenterveyden haasteet ovat raskaita taakkoja yksilölle, ja yhteiskunnalle ne
 
 ---
 
-Tämä on ensimmäinen kirjoitukseni osana kuntavaalikampanjaani. Olen ehdolla [Järvenpään vihreissä](https://www.jarvenpaanvihreat.fi/). Alue- ja kuntavaalien vaalipäivä on sunnuntaina 13.4.2025. Äänestämällä vaikutat siihen, millaisista asioista valtuustossa puhutaan.
+*Tämä on ensimmäinen kirjoitukseni osana kuntavaalikampanjaani. Olen ehdolla [Järvenpään vihreissä](https://www.jarvenpaanvihreat.fi/). Alue- ja kuntavaalien vaalipäivä on sunnuntaina 13.4.2025. Äänestämällä vaikutat siihen, millaisista asioista valtuustossa puhutaan.*
