@@ -9,11 +9,21 @@
       <url>http://localhost:1313/img/anttikoistinen-cover.png</url>
       <link>http://localhost:1313/img/anttikoistinen-cover.png</link>
     </image>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.141.0</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen © 2025</copyright>
-    <lastBuildDate>Wed, 05 Feb 2025 16:33:50 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 11:39:18 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kuntavaalit 2025</title>
+      <link>http://localhost:1313/kuntavaalit_2025/</link>
+      <pubDate>Sun, 09 Feb 2025 11:39:18 +0200</pubDate>
+      <guid>http://localhost:1313/kuntavaalit_2025/</guid>
+      <description>&lt;p&gt;Olen ehdolla vuoden 2025 kuntavaaleissa Järvenpäässä Vihreiden listalla. Tällä sivulla kerron tärkeimmistä vaaliteemoistani. Syvällisemmin ajatuksiani avaan myös &lt;a href=&#34;http://localhost:1313/julkaisut&#34;&gt;julkaisuissani&lt;/a&gt; – suosittelen tutustumaan!&lt;/p&gt;
+&lt;h1 id=&#34;kulttuuri-ja-nuoriso&#34;&gt;Kulttuuri ja nuoriso&lt;/h1&gt;
+&lt;p&gt;Ilman nuoria meillä ei ole tulevaisuutta. Järvenpään on arvioitava päätöstensä vaikutukset lapsiin ja nuoriin. Erityisesti kannan huolta sukupuoli- ja seksuaalivähemmistöihin kuuluvista nuorista, jotka tarvitsevat turvallisia tiloja ja yhdenvertaisia mahdollisuuksia kasvaa omana itsenään.&lt;/p&gt;
+&lt;p&gt;Järvenpäällä on monia keinoja edistää nuorten harrastusmahdollisuuksia. Jokaiselle nuorelle on taattava pääsy mielekkääseen ja edulliseen harrastukseen. Kaupunki tukee tätä muun muassa tarjoamalla tiloja harrastus- ja urheilujärjestöjen käyttöön – mieluiten maksutta ja selkein pelisäännöin. Myös yhdistysten toiminta- ja koulutusavustukset ovat välttämättömiä.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Järvenpäässä riittää suojeltavaa luontoa</title>
       <link>http://localhost:1313/julkaisut/jarvenpaassa_riittaa_suojeltavaa_luontoa/</link>
