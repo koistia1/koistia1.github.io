@@ -41,4 +41,4 @@ Kaupunkimme on tehtävä osansa ilmastomyönteisyyden edistämiseksi. Tämä tar
 
 Jos nämä ajatukset resonoi sinussa, tee palvelus ja jaa tämä sivu eteenpäin! Voit myös tukea kampanjaani pienellä [lahjoituksella](https://vaalit.vihreat.fi/embed/ehdokas/?kieli=fi&vaali=kuntavaalit-2025&kunta=k186&ehdokas=koistinen-antti-7915&valilehti=donate).
 
-Tai onko jotain, mitä voisin vielä hioa paremmaksi? Lähetä minulle palautetta [sähköpostilla](mailto:koistinen@iki.fi). Kunnallinen päätöksenteko on yhteispeliä, ja arvostan näkemyksiäsi Järvenpään tulevaisuudesta!
+Tai onko jotain, mistä olet reippaasti eri mieltä? Lähetä minulle palautetta [sähköpostilla](mailto:koistinen@iki.fi). Kunnallinen päätöksenteko on yhteispeliä, ja arvostan näkemyksiäsi.
