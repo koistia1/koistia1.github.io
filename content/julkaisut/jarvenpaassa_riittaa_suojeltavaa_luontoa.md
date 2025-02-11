@@ -7,7 +7,7 @@ summary:  'Tässä kirjoituksessa käsittelen Haarajoen myllyä ja Keravanjoen v
 cover:
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Haarajoki_mill_and_dam_at_Keravanjoki_river_in_Mylly%2C_J%C3%A4rvenp%C3%A4%C3%A4%2C_Finland%2C_2022_May.jpg/1024px-Haarajoki_mill_and_dam_at_Keravanjoki_river_in_Mylly%2C_J%C3%A4rvenp%C3%A4%C3%A4%2C_Finland%2C_2022_May.jpg"
     alt: "Haarajoen mylly. "
-    caption: "Kuva: Simo Räsänen. Lisenssi: CC BY-SA 4.0"
+    caption: "Kuva: Simo Räsänen. Lisenssi: CC BY-SA 4.0 (Wikimedia Commons)"
     relative: false
 ---
 Keravanjoki halkoo Järvenpäätä pohjois-eteläsuunnassa sen itäisellä laidalla. Joen varrella on monimuotoisia elinympäristöjä, joista osa on luonnon muovaamia ja osa ihmisen aikaansaamia. Tämä alue tarjoaa niin asukkaille kuin eläimillekin arvokasta tilaa hengittää ja elää.
