@@ -19,19 +19,23 @@ params:
     imageTitle: "Antti Koistinen" # optional
     imageWidth: 250 # custom size
     imageHeight: 250 # custom size
-    buttons:
-      - name: Antti
-        url: "/about"
-      - name: Q-Itu Solutions
-        url: "/q-itu"
+    buttons: 
+      #- name: Antti
+      #  url: "/about"
+      #- name: Q-Itu Solutions
+      #  url: "/q-itu"
       - name: Lahjoita kuntavaalikampanjaani
-        url: "https://www.vihreat.fi/kuntavaalit-2025/?kieli=fi&vaali=kuntavaalit-2025&kunta=k186&ehdokas=koistinen-antti-7915&valilehti=donate"
+        url: "https://vaalit.vihreat.fi/embed/ehdokas/?kieli=fi&vaali=kuntavaalit-2025&kunta=k186&ehdokas=koistinen-antti-7915&valilehti=donate"
   
   socialIcons:
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/anttikoistinen/"
     - name: "Instagram"
       url: "https://www.instagram.com/ajkoistinen/"
+    - name: "Bluesky"
+      url: "https://bsky.app/profile/ajkoistinen.bsky.social"
+    - name: "Facebook"
+      url: "https://www.facebook.com/antti.j.koistinen"
   
   assets:
     favicon: "/img/favicon.ico"
