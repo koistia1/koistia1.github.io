@@ -9,7 +9,7 @@
       <url>http://localhost:1313/img/anttikoistinen-cover.png</url>
       <link>http://localhost:1313/img/anttikoistinen-cover.png</link>
     </image>
-    <generator>Hugo -- 0.141.0</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen © 2025</copyright>
     <lastBuildDate>Sun, 09 Feb 2025 11:39:18 +0200</lastBuildDate>
@@ -19,10 +19,7 @@
       <link>http://localhost:1313/kuntavaalit_2025/</link>
       <pubDate>Sun, 09 Feb 2025 11:39:18 +0200</pubDate>
       <guid>http://localhost:1313/kuntavaalit_2025/</guid>
-      <description>&lt;p&gt;Olen ehdolla vuoden 2025 kuntavaaleissa Järvenpäässä Vihreiden listalla. Tällä sivulla kerron tärkeimmistä vaaliteemoistani. Syvällisemmin ajatuksiani avaan myös &lt;a href=&#34;http://localhost:1313/julkaisut&#34;&gt;julkaisuissani&lt;/a&gt; – suosittelen tutustumaan!&lt;/p&gt;
-&lt;h1 id=&#34;kulttuuri-ja-nuoriso&#34;&gt;Kulttuuri ja nuoriso&lt;/h1&gt;
-&lt;p&gt;Ilman nuoria meillä ei ole tulevaisuutta. Järvenpään on arvioitava päätöstensä vaikutukset lapsiin ja nuoriin. Erityisesti kannan huolta sukupuoli- ja seksuaalivähemmistöihin kuuluvista nuorista, jotka tarvitsevat turvallisia tiloja ja yhdenvertaisia mahdollisuuksia kasvaa omana itsenään.&lt;/p&gt;
-&lt;p&gt;Järvenpäällä on monia keinoja edistää nuorten harrastusmahdollisuuksia. Jokaiselle nuorelle on taattava pääsy mielekkääseen ja edulliseen harrastukseen. Kaupunki tukee tätä muun muassa tarjoamalla tiloja harrastus- ja urheilujärjestöjen käyttöön – mieluiten maksutta ja selkein pelisäännöin. Myös yhdistysten toiminta- ja koulutusavustukset ovat välttämättömiä.&lt;/p&gt;</description>
+      <description>Olen ehdolla vuoden 2025 kuntavaaleissa Järvenpäässä Vihreiden listalla. Tällä sivulla kerron tärkeimmistä vaaliteemoistani.</description>
     </item>
     <item>
       <title>Järvenpäässä riittää suojeltavaa luontoa</title>
@@ -43,13 +40,18 @@
       <link>http://localhost:1313/q-itu/</link>
       <pubDate>Mon, 20 Jan 2025 17:38:03 +0200</pubDate>
       <guid>http://localhost:1313/q-itu/</guid>
-      <description>&lt;p&gt;Perustin Q-itu Solutions -toiminimen tammikuussa 2025. Yksityisenä elinkeinonharjoittajana tarjoan omaa osaamistani erikokoisille yrityksille ja muille ammatinharjoittajille. Olen käytettävissä erilaisissa toimeksiannoissa:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Minulla on yli 15 vuoden kokemus &lt;strong&gt;asiantuntijoiden kouluttamisesta&lt;/strong&gt; erilaisissa ympäristöissä, mm. erilaisista soveltavan kemian laboratoriotöistä, opinnäytetöiden ohjaamisesta, sekä johtajien kouluttamisesta partiossa.&lt;/li&gt;
-&lt;li&gt;Lähes viiden vuoden ajan toimin erilaisissa &lt;strong&gt;grant writer&lt;/strong&gt; -tehtävissä Spinverse Oy:ssä, keskittyen etenkin EU-hankehakemusten kirjoittamiseen ja konsortiohankkeiden valmisteluun.&lt;/li&gt;
-&lt;li&gt;Tutkimuksen ja teknologian kansantajuistaminen ja muunlainen &lt;strong&gt;tieteellinen kirjoittaminen&lt;/strong&gt; on minulle kiinnostavaa.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Yksityishenkilöille tarjoan &lt;strong&gt;valokuvauspalveluitani&lt;/strong&gt;. Olen erikoistunut valokuvaamaan filmille, josta teen mustavalko- ja värivedoksia valokuvapaperille omassa kotipimiössäni.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Perustin Q-itu Solutions -toiminimen tammikuussa 2025. Yksityisenä elinkeinonharjoittajana tarjoan omaa osaamistani erikokoisille yrityksille ja muille ammatinharjoittajille. Olen käytettävissä erilaisissa toimeksiannoissa muun muassa seuraavien aiheiden tiimoilta:&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;Kouluttaminen&lt;/dt&gt;
+&lt;dd&gt;Minulla on yli 15 vuoden kokemus asiantuntijoiden kouluttamisesta erilaisissa ympäristöissä, mm. erilaisista soveltavan kemian laboratoriotaidoista, opinnäytetöiden ohjaamisesta, sekä johtajien kouluttamisesta partiossa.&lt;/dd&gt;
+&lt;dt&gt;Julkinen rahoitus&lt;/dt&gt;
+&lt;dd&gt;Lähes viiden vuoden ajan toimin erilaisissa grant writer -tehtävissä &lt;em&gt;Spinverse Oy&lt;/em&gt;:ssä, keskittyen etenkin EU-hankehakemusten kirjoittamiseen ja konsortiohankkeiden valmisteluun.&lt;/dd&gt;
+&lt;dt&gt;Tieteellinen kirjoittaminen&lt;/dt&gt;
+&lt;dd&gt;Olen työskennellyt koko työurani tutkimukseen ja teknologiaan liittyvän kirjoitustyön parissa. Näin ollen minulta luonnistuu niin tieteellisen tekstin tuottaminen kuin tiedon kansantajuistaminenkin.&lt;/dd&gt;
+&lt;dt&gt;Filmikuvaus&lt;/dt&gt;
+&lt;dd&gt;Olen erikoistunut valokuvaamaan filmille, josta teen mustavalko- ja värivedoksia valokuvapaperille omassa kotipimiössäni Järvenpäässä. Tarjoan valokuvauspalveluitani pääasiassa kuluttaja-asiakkaille.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Lähetä minulle sähköpostia, niin laaditaan teidän tarpeisiin sopiva ratkaisu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Minusta</title>

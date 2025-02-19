@@ -4,13 +4,21 @@ draft: false
 title: 'Q-itu Solutions'
 menus: main
 ---
-Perustin Q-itu Solutions -toiminimen tammikuussa 2025. Yksityisenä elinkeinonharjoittajana tarjoan omaa osaamistani erikokoisille yrityksille ja muille ammatinharjoittajille. Olen käytettävissä erilaisissa toimeksiannoissa: 
+Perustin Q-itu Solutions -toiminimen tammikuussa 2025. Yksityisenä elinkeinonharjoittajana tarjoan omaa osaamistani erikokoisille yrityksille ja muille ammatinharjoittajille. Olen käytettävissä erilaisissa toimeksiannoissa muun muassa seuraavien aiheiden tiimoilta: 
 
-* Minulla on yli 15 vuoden kokemus **asiantuntijoiden kouluttamisesta** erilaisissa ympäristöissä, mm. erilaisista soveltavan kemian laboratoriotöistä, opinnäytetöiden ohjaamisesta, sekä johtajien kouluttamisesta partiossa.
-* Lähes viiden vuoden ajan toimin erilaisissa **grant writer** -tehtävissä Spinverse Oy:ssä, keskittyen etenkin EU-hankehakemusten kirjoittamiseen ja konsortiohankkeiden valmisteluun.
-* Tutkimuksen ja teknologian kansantajuistaminen ja muunlainen **tieteellinen kirjoittaminen** on minulle kiinnostavaa.
+Kouluttaminen
+: Minulla on yli 15 vuoden kokemus asiantuntijoiden kouluttamisesta erilaisissa ympäristöissä, mm. erilaisista soveltavan kemian laboratoriotaidoista, opinnäytetöiden ohjaamisesta, sekä johtajien kouluttamisesta partiossa.
 
-Yksityishenkilöille tarjoan **valokuvauspalveluitani**. Olen erikoistunut valokuvaamaan filmille, josta teen mustavalko- ja värivedoksia valokuvapaperille omassa kotipimiössäni.
+Julkinen rahoitus
+: Lähes viiden vuoden ajan toimin erilaisissa grant writer -tehtävissä *Spinverse Oy*:ssä, keskittyen etenkin EU-hankehakemusten kirjoittamiseen ja konsortiohankkeiden valmisteluun.
+
+Tieteellinen kirjoittaminen 
+: Olen työskennellyt koko työurani tutkimukseen ja teknologiaan liittyvän kirjoitustyön parissa. Näin ollen minulta luonnistuu niin tieteellisen tekstin tuottaminen kuin tiedon kansantajuistaminenkin.
+
+Filmikuvaus
+: Olen erikoistunut valokuvaamaan filmille, josta teen mustavalko- ja värivedoksia valokuvapaperille omassa kotipimiössäni Järvenpäässä. Tarjoan valokuvauspalveluitani pääasiassa kuluttaja-asiakkaille.
+
+Lähetä minulle sähköpostia, niin laaditaan teidän tarpeisiin sopiva ratkaisu.
 
 ## Yhteystiedot
 
