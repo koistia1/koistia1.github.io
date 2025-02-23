@@ -18,6 +18,10 @@ Miksi kuntavaaliehdokas Järvenpäästä pohtii tällaisia asioita? Miten tämä
 
 Mutta ilmaston lisäksi kyse on myös moraalista ja eläinten hyvinvoinnista. Kuten Oikeutta eläimille -järjestön paljastukset kalaviljelmiltä osoittavat, edes lailliset eläintuotannon muodot eivät takaa eläimille hyvää elämää – päinvastoin, ne mahdollistavat massiivisen kärsimyksen. Kalat, jotka ovat tuntevia olentoja siinä missä nisäkkäätkin, jäävät usein vaille huomiota eläinoikeuskeskusteluissa. Siksi lajismin purkaminen alkaa siitä, että tunnistamme kaikkien eläinten oikeuden elämään ilman turhaa kärsimystä. Tämä tarkoittaa käytännössä myös sitä, että kuntien tulisi siirtyä tarjoamaan kasvipohjaista ruokaa – eettisistä, ekologisista ja terveydellisistä syistä.
 
+---
+
+*Kuntavaalit pidetään 13.4.2025. Äänestämällä Vihreiden ehdokasta tuet oman kuntasi sitoutumista eettiseen ruokaan ja ilmastotavoitteisiin.*
+
 [^1]: Oikeutta eläimille, 2025. https://oikeuttaelaimille.fi/kirjolohet/
 [^2]: Ruokavirasto, 2024. https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/kestavat-ruokavalinnat-lautasella
 [^3]: Lajismi eli spesismi, Wikipedia. https://fi.wikipedia.org/wiki/Spesismi
