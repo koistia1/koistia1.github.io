@@ -12,8 +12,15 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen © 2025</copyright>
-    <lastBuildDate>Mon, 24 Feb 2025 09:22:32 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 11:14:24 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empatia vaalikentillä – miksi poliittinen vastustaja ei ole vihollinen?</title>
+      <link>http://localhost:1313/julkaisut/empaattisempi_politiikka/</link>
+      <pubDate>Thu, 27 Mar 2025 11:14:24 +0200</pubDate>
+      <guid>http://localhost:1313/julkaisut/empaattisempi_politiikka/</guid>
+      <description>Politiikka ei tarvitse lisää vastakkainasettelua, vaan enemmän empatiaa. Tässä kirjoituksessa pohdin, miksi poliittinen vastustaja ei ole vihollinen, ja miten voimme rakentaa inhimillisempää keskustelukulttuuria myös silloin, kun olemme eri mieltä.</description>
+    </item>
     <item>
       <title>Briefly in English</title>
       <link>http://localhost:1313/in_english/</link>
