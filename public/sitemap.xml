@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-24T09:22:32+02:00</lastmod>
+    <lastmod>2025-03-27T11:14:24+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/julkaisut/empaattisempi_politiikka/</loc>
+    <lastmod>2025-03-27T11:14:24+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/julkaisut/</loc>
+    <lastmod>2025-03-27T11:14:24+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/in_english/</loc>
     <lastmod>2025-02-24T09:22:32+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/julkaisut/</loc>
-    <lastmod>2025-02-23T19:50:16+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/julkaisut/lajismi_elaintuotanto_ja_kuntapolitiikka_-_miksi_meidan_on_aika_kyseenalaistaa_elainperainen_ruokavalio/</loc>
     <lastmod>2025-02-23T19:50:16+02:00</lastmod>
