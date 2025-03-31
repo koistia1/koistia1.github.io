@@ -31,3 +31,7 @@ Oikeistopuolueet puhuvat mielellään verojen laskemisesta ja julkisen sektorin 
 
 [^1]: Kunnallisveroa ei muuten makseta pääomatuloista, vaan pelkästään ansiotuloista. Tässäpä vasta kansallinen epäkohta, joka tulisi ehdottomasti Arkadianmäellä säätää kuntoon!
 [^2]: Esimerkkejä vähennyksistä ovat perusvähennys, tulonhankkimisvähennys, eläketulovähennys sekä opintorahavähennys. Lisätietoja: https://www.veronmaksajat.fi/tutkimus-ja-tilastot/kuntaverot/
+
+---
+
+*Ennakkoäänestys kuntavaaleissa on 2.-8.4.2025. Minua voi äänestää Järvenpäässä numerolla 215.*
