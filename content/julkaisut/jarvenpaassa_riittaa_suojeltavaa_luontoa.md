@@ -2,6 +2,7 @@
 date: '2025-02-05T16:33:50+02:00'
 draft: false
 title: 'Järvenpäässä riittää suojeltavaa luontoa'
+author: Antti Koistinen
 description: 'Tässä kirjoituksessa käsittelen Haarajoen myllyä ja Keravanjoen vartta syleilevää Järvenpään suurinta luonnonsuojelualuetta: Lemmenlaakson lehtoa. Mikä luontokohde Järvenpäästä olisi hyvä suojella seuraavaksi?'
 summary:  'Tässä kirjoituksessa käsittelen Haarajoen myllyä ja Keravanjoen vartta syleilevää Järvenpään suurinta luonnonsuojelualuetta: Lemmenlaakson lehtoa. Mikä luontokohde Järvenpäästä olisi hyvä suojella seuraavaksi?'
 cover:

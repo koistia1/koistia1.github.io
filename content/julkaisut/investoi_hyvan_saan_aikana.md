@@ -2,6 +2,7 @@
 date: '2025-03-31T16:43:25+03:00'
 draft: False
 title: 'Kannattaisiko sittenkin investoida hyvän sään aikana?'
+author: Antti Koistinen
 summary: Järvenpää on säästänyt investoinneista ja leikannut palveluita, mikä luo tulevaisuuteen korjausvelkaa. Nyt olisi aika panostaa järkevästi kasvuun ja investointeihin – vaikka sitten lainalla tai veronkorotuksilla.
 description: 'Järvenpää on säästänyt investoinneista ja leikannut palveluita, mikä luo tulevaisuuteen korjausvelkaa. Nyt olisi aika panostaa järkevästi kasvuun ja investointeihin – vaikka sitten lainalla tai veronkorotuksilla.'
 ---
