@@ -12,7 +12,7 @@ Järvenpää on nyt päättyvällä valtuustokaudella leikannut palveluista ja s
 
 Samaan aikaan monia investointeja ja hankkeita on lykätty tulevalle valtuustokaudelle ja vaalien jälkeen. Tällaisia valintoja on ollut mm. [Järvenpään yhteiskoulun remontin](https://www.keski-uusimaa.fi/paikalliset/6592278) ja laajennuksen siirtäminen vuosien päähän. Tätä me Järvenpään Vihreissä aikanaan valtuustossa voimakkaasti vastustimme. Koulun opettajat arvioivat, että kunnollisten opetustilojen lykkääminen tulevaisuuteen ajaa oppilaat epätasavertaiseen asemaan:
 
-> Oppilaat kärsivät tästä kaikista eniten. Tämä vaikuttaa heihin tosi monta vuotta, ja kun taidot eivät pääse kehittymään, on tämä suoraan heiltä tulevaisuudesta pois. (Lainaus Keski-Uudenmaan artikkelista, 28.2.2024)
+> Oppilaat kärsivät tästä kaikista eniten. Tämä vaikuttaa heihin tosi monta vuotta, ja kun taidot eivät pääse kehittymään, on tämä suoraan heiltä tulevaisuudesta pois. *(Lainaus Keski-Uudenmaan artikkelista, 28.2.2024)*
 
 ### Keskeisten investointien lykkääminen on useimmiten huono valinta
 
