@@ -12,8 +12,15 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen © 2025</copyright>
-    <lastBuildDate>Thu, 27 Mar 2025 11:14:24 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 16:43:25 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/julkaisut/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kannattaisiko sittenkin investoida hyvän sään aikana?</title>
+      <link>http://localhost:1313/julkaisut/jarvenpaan_talous/</link>
+      <pubDate>Mon, 31 Mar 2025 16:43:25 +0300</pubDate>
+      <guid>http://localhost:1313/julkaisut/jarvenpaan_talous/</guid>
+      <description>Järvenpää on säästänyt investoinneista ja leikannut palveluita, mikä luo tulevaisuuteen korjausvelkaa. Nyt olisi aika panostaa järkevästi kasvuun ja investointeihin – vaikka sitten lainalla tai veronkorotuksilla.</description>
+    </item>
     <item>
       <title>Empatia vaalikentillä – miksi poliittinen vastustaja ei ole vihollinen?</title>
       <link>http://localhost:1313/julkaisut/empaattisempi_politiikka/</link>
