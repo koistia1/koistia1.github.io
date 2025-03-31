@@ -29,9 +29,9 @@ Vaikka kunnallisvero ei nimellisesti ole progressiivinen, käytännössä erilai
 
 Oikeistopuolueet puhuvat mielellään verojen laskemisesta ja julkisen sektorin säästöistä vastuullisena taloudenpitona. Todellinen vastuullisuus kuitenkin tarkoittaa investoimista ajoissa: katto kannattaa korjata hyvän sään aikana. Jos nyt kylvämme pelkkiä leikkauksia, tulevaisuudessa niitämme niiden aiheuttamat ongelmat ja kustannukset korkojen kera.
 
-[^1]: Kunnallisveroa ei muuten makseta pääomatuloista, vaan pelkästään ansiotuloista. Tässäpä vasta kansallinen epäkohta, joka tulisi ehdottomasti Arkadianmäellä säätää kuntoon!
-[^2]: Esimerkkejä vähennyksistä ovat perusvähennys, tulonhankkimisvähennys, eläketulovähennys sekä opintorahavähennys. Lisätietoja: https://www.veronmaksajat.fi/tutkimus-ja-tilastot/kuntaverot/
-
 ---
 
 *Ennakkoäänestys kuntavaaleissa on 2.-8.4.2025. Minua voi äänestää Järvenpäässä numerolla 215.*
+
+[^1]: Kunnallisveroa ei muuten makseta pääomatuloista, vaan pelkästään ansiotuloista. Tässäpä vasta kansallinen epäkohta, joka tulisi ehdottomasti Arkadianmäellä säätää kuntoon!
+[^2]: Esimerkkejä vähennyksistä ovat perusvähennys, tulonhankkimisvähennys, eläketulovähennys sekä opintorahavähennys. Lisätietoja: https://www.veronmaksajat.fi/tutkimus-ja-tilastot/kuntaverot/
