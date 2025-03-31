@@ -9,7 +9,9 @@ Mitä kylvää, sitä niittää. Siinäpä mainio suomalainen sananlasku.
 
 Järvenpää on Kokoomuksen johdolla leikannut palveluista ja säästänyt investoinneista. Ja tulokset olivatkin nyt nähtävissä: viime viikolla kaupunginhallituksen kokoomuslaiset johdolla julkaisivat riemuisan kuvan kuvatekstillä johdateltuna, että kaupungin tilinpäätös vuodelta 2024 on ylijäämäinen 1,4 miljoonaa euroa, kaupungin lainamäärä pieneni 0,7 miljoonaa euroa.
 
-Samaan aikaan monia investointeja ja hankkeita on lykätty tulevalle valtuustokaudelle ja vaalien jälkeen. Tällaisia valintoja on ollut mm. [Järvenpään yhteiskoulun remontin](https://www.keski-uusimaa.fi/paikalliset/6592278) ja laajennuksen siirtäminen vuosien päähän, jota Järvenpään Vihreät ovat voimakkaasti arvostelleet.
+Samaan aikaan monia investointeja ja hankkeita on lykätty tulevalle valtuustokaudelle ja vaalien jälkeen. Tällaisia valintoja on ollut mm. [Järvenpään yhteiskoulun remontin](https://www.keski-uusimaa.fi/paikalliset/6592278) ja laajennuksen siirtäminen vuosien päähän. Tätä me Järvenpään Vihreissä aikanaan valtuustossa voimakkaasti vastustimme.
+
+### Keskeisten investointien lykkääminen on useimmiten huono valinta
 
 Investointien lykkääminen on käytännössä vain korjausvelan kasvattamista tulevaisuuteen. Lyhyen aikavälin säästöt voivat saada tilinpäätöksen näyttämään kauniilta, mutta seuraavat valtuustot kohtaavat paljon suuremman ja kalliimman korjaustarpeen.
 
@@ -21,6 +23,8 @@ Velasta puhuttaessa on kuitenkin tehtävä selkeä ero investointivelkojen ja ns
 
 Velan ottamisen lisäksi kunnallistaloudellisessa työkalupakissamme on kunnallisveron nostaminen. 
 Vaikka kunnallisvero ei nimellisesti ole progressiivinen, käytännössä erilaisten vähennysten vuoksi efektiivinen verotus keventää pienituloisten taakkaa[^2]. Näin ollen veronkorotus osuisi suhteessa vähemmän pienituloisiin.
+
+> Katto kannattaa korjata hyvän sään aikana.
 
 Oikeistopuolueet puhuvat mielellään verojen laskemisesta ja julkisen sektorin säästöistä vastuullisena taloudenpitona. Todellinen vastuullisuus kuitenkin tarkoittaa investoimista ajoissa: katto kannattaa korjata hyvän sään aikana. Jos nyt kylvämme pelkkiä leikkauksia, tulevaisuudessa niitämme niiden aiheuttamat ongelmat ja kustannukset korkojen kera.
 
