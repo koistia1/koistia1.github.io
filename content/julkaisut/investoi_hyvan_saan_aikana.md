@@ -10,7 +10,7 @@ Mitä kylvää, sitä niittää. Siinäpä mainio suomalainen sananlasku.
 
 Järvenpää on nyt päättyvällä valtuustokaudella leikannut palveluista ja säästänyt investoinneista. Ja tulokset olivatkin nyt nähtävissä: viime viikolla kaupunginhallituksen kokoomuslaiset johdolla julkaisivat [riemuisan kuvan kuvatekstillä johdateltuna](https://www.facebook.com/photo/?fbid=29288625970750667&set=gm.3091377717686619&idorvanity=111025475721873), että kaupungin tilinpäätös vuodelta 2024 on ylijäämäinen 1,4 miljoonaa euroa, kaupungin lainamäärä pieneni 0,7 miljoonaa euroa. Tämä kaikki "veronkorotukset valtuustokaudella välttäen".
 
-1,4 miljoonan euron tuloksen oikea hinta maksetaan kyllä myöhemmin, sillä monia investointeja ja hankkeita on lykätty tulevalle valtuustokaudelle ja vaalien jälkeen. Tällaisia valintoja on ollut mm. [Järvenpään yhteiskoulun remontin](https://www.keski-uusimaa.fi/paikalliset/6592278) ja laajennuksen siirtäminen vuosien päähän. Tätä me Järvenpään Vihreissä aikanaan valtuustossa voimakkaasti vastustimme. Koulun opettajat arvioivat, että kunnollisten opetustilojen lykkääminen tulevaisuuteen ajaa oppilaat epätasavertaiseen asemaan:
+1,4 miljoonan euron tuloksen oikea hinta maksetaan kyllä myöhemmin, sillä monia investointeja ja hankkeita on lykätty tulevalle valtuustokaudelle ja vaalien jälkeen. Tällaisia valintoja on ollut mm. [Järvenpään yhteiskoulun Kansakoulunkadun rakennuksen remontin](https://www.keski-uusimaa.fi/paikalliset/6592278) ja laajennuksen siirtäminen vuosien päähän. Tätä me Järvenpään Vihreissä aikanaan valtuustossa voimakkaasti vastustimme. Koulun opettajat arvioivat, että kunnollisten opetustilojen lykkääminen tulevaisuuteen ajaa oppilaat epätasavertaiseen asemaan:
 
 > Oppilaat kärsivät tästä kaikista eniten. Tämä vaikuttaa heihin tosi monta vuotta, ja kun taidot eivät pääse kehittymään, on tämä suoraan heiltä tulevaisuudesta pois. *(Lainaus Keski-Uudenmaan artikkelista, 28.2.2024)*
 
@@ -18,9 +18,7 @@ Järvenpää on nyt päättyvällä valtuustokaudella leikannut palveluista ja s
 
 Investointien lykkääminen on käytännössä vain korjausvelan kasvattamista tulevaisuuteen. Lyhyen aikavälin säästöt voivat saada tilinpäätöksen näyttämään kauniilta, mutta seuraavat valtuustot kohtaavat paljon suuremman ja kalliimman korjaustarpeen.
 
-Kokoomuksen talouspolitiikka ja viestintä nojaa voimakkaasti velkapelkoon: investointeja tai menolisäyksiä vältellään kaikin keinoin, jos ne lisäävät velkaa tai nostavat veroprosenttia. Tämä ei kuitenkaan ole järkevää politiikkaa Järvenpään kaltaisessa nopeasti kasvavassa radanvarsikaupungissa. Meidän on vastattava kasvavan asukasmäärän tarpeisiin ajoissa, eikä vasta sitten, kun ongelmat ovat kasautuneet ja muuttuneet paljon kalliimmiksi ratkaista.
-
-Järvenpää ei ole kriisikunta, vaan osa kasvavaa Uuttamaata ja pääkaupunkiseutua. Helsingin ja Espoon korkeat asumiskustannukset ajavat uusia kuntalaisia luoksemme, metropolialueen reunalle – tämä on mahdollisuus, johon meidän täytyy panostaa nyt eikä tulevaisuudessa.
+Kokoomuksen talouspolitiikka ja viestintä nojaa voimakkaasti velkapelkoon: investointeja tai menolisäyksiä vältellään kaikin keinoin, jos ne lisäävät velkaa tai nostavat veroprosenttia. Tämä ei kuitenkaan ole järkevää politiikkaa Järvenpään kaltaisessa uusmaalaisessa radanvarsikaupungissa. Järvenpää ei ole kriisikunta, vaan osa kasvavaa Uuttamaata ja pääkaupunkiseutua. Helsingin ja Espoon korkeat asumiskustannukset ajavat uusia kuntalaisia luoksemme, metropolialueen reunalle – tämä on mahdollisuus, johon meidän täytyy panostaa nyt eikä tulevaisuudessa. Jos kaupunki tavoittelee asukasmäärän kasvua, on kaupungin kouluihin ja infrastruktuuriin oltava valmiita investoimaan.
 
 Velasta puhuttaessa on kuitenkin tehtävä selkeä ero investointivelkojen ja ns. syömävelan välille. Syömävelka, eli kaupungin käyttömenojen kattamiseen otettava velka, on lyhytnäköistä ja yksiselitteisesti huonoa taloudenpitoa.
 
