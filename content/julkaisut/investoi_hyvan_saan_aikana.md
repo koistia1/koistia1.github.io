@@ -8,7 +8,7 @@ description: 'Järvenpää on säästänyt investoinneista ja leikannut palvelui
 ---
 Mitä kylvää, sitä niittää. Siinäpä mainio suomalainen sananlasku.
 
-Järvenpää on Kokoomuksen johdolla leikannut palveluista ja säästänyt investoinneista. Ja tulokset olivatkin nyt nähtävissä: viime viikolla kaupunginhallituksen kokoomuslaiset johdolla julkaisivat [riemuisan kuvan kuvatekstillä johdateltuna](https://www.facebook.com/photo/?fbid=29288625970750667&set=gm.3091377717686619&idorvanity=111025475721873), että kaupungin tilinpäätös vuodelta 2024 on ylijäämäinen 1,4 miljoonaa euroa, kaupungin lainamäärä pieneni 0,7 miljoonaa euroa.
+Järvenpää on nyt päättyvällä valtuustokaudella leikannut palveluista ja säästänyt investoinneista. Ja tulokset olivatkin nyt nähtävissä: viime viikolla kaupunginhallituksen kokoomuslaiset johdolla julkaisivat [riemuisan kuvan kuvatekstillä johdateltuna](https://www.facebook.com/photo/?fbid=29288625970750667&set=gm.3091377717686619&idorvanity=111025475721873), että kaupungin tilinpäätös vuodelta 2024 on ylijäämäinen 1,4 miljoonaa euroa, kaupungin lainamäärä pieneni 0,7 miljoonaa euroa.
 
 Samaan aikaan monia investointeja ja hankkeita on lykätty tulevalle valtuustokaudelle ja vaalien jälkeen. Tällaisia valintoja on ollut mm. [Järvenpään yhteiskoulun remontin](https://www.keski-uusimaa.fi/paikalliset/6592278) ja laajennuksen siirtäminen vuosien päähän. Tätä me Järvenpään Vihreissä aikanaan valtuustossa voimakkaasti vastustimme. Koulun opettajat arvioivat, että kunnollisten opetustilojen lykkääminen tulevaisuuteen ajaa oppilaat epätasavertaiseen asemaan:
 
