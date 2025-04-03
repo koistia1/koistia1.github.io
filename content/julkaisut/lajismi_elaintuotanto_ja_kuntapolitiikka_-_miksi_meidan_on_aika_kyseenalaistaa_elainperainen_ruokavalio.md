@@ -1,6 +1,7 @@
 ---
 date: '2025-02-23T19:50:16+02:00'
 draft: false
+author: Antti Koistinen
 title: 'Lajismi, eläintuotanto ja kuntapolitiikka – miksi meidän on aika kyseenalaistaa eläinperäinen ruokavalio?'
 summary: 'Lajismista kuntapolitiikkaan – miksi eläinten oikeudet kuuluvat myös vaaliteemoihin'
 description: 'Lajismista kuntapolitiikkaan – miksi eläinten oikeudet kuuluvat myös vaaliteemoihin'
