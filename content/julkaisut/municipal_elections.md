@@ -3,14 +3,14 @@ date: '2025-04-03T16:28:34+03:00'
 draft: false
 title: "Municipal and county elections in Finland: a short guide for foreigners"
 author: Antti Koistinen
-description: 'In this blog post, I tell the basics of municipal and county elections we have in Finland this April.'
-summary: 'In this blog post, I tell the basics of municipal and county elections we have in Finland this April.'
+description: 'A short guide for foreigners on voting in Finland’s municipal and county elections in April 2025. Find out who is eligible, how and where to vote, and why your vote matters.'
+summary: 'A short guide for foreigners on voting in Finland’s municipal and county elections in April 2025. Find out who is eligible, how and where to vote, and why your vote matters.'
 ---
 In this blog post, I explain the basics of the municipal and county elections happening in Finland this April. I also include some Finnish terms in brackets, which might help you learn basic election vocabulary!
 
 ### In this Spring's elections, foreigners are eligible to vote!
 
-I am writing this post in English because I have several friends who don't speak Finnish, and I want to help you out. Foreigners are eligible to vote in the municipal elections (*kuntavaalit*) and county elections (*aluevaalit*) if:
+I am writing this post in English because I have several friends who don't speak Finnish, and I want to help them out. Foreigners are eligible to vote in the municipal elections (*kuntavaalit*) and county elections (*aluevaalit*) if:
 1. they are at least **18 years old** on the election day, *and* 
 2. they have had a municipality of residence in Finland for an uninterrupted period of **two years**. 
 
@@ -54,4 +54,4 @@ You can find more information on the [official election website of the Ministry 
 
 ### Why do *I* care?
 
-I'm a candidate for the city council in Järvenpää, running with the Greens.
+I'm a candidate for the city council in Järvenpää, running with the Greens. I think the municipal elections are the most important elections we have in Finland, since the decisions made by the municipal councils have the biggest impact on our day-to-day matters, and that's why I'd like to get everyone motivated to use their right to vote in these elections.
