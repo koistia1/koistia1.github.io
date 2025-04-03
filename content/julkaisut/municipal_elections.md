@@ -22,7 +22,7 @@ Many day-to-day services are run by the municipalities. For example, if you use 
 
 The municipal council holds the highest decision-making power in the municipality. Basically, the municipalities are autonomous in Finland, and they are able to decide on their own taxation. The municipal elections are held every four years. The candidates are running to become representatives (*valtuutettu*) in local municipal councils (*kunnanvaltuusto*, or *kaupunginvaltuusto*). (*Kaupunki* means city, and *kunta* means municipality, but legally, they have the same meaning.) These representatives will make decisions on your behalf on topics such as taxation, urban planning, and education.
 
-The other election is the county elections. This is a pretty new thing in Finland, and now this election is held for the second time in Finnish history. The county councils are in charge of organizing the health care and social services of the citizens.
+The other election is the county elections. This is a pretty new thing in Finland, and now this election is held for the second time in Finnish history. The county councils are in charge of organizing the health care and social services of the citizens. **However: If you live in Helsinki**, you can only vote in the municipal election, as Helsinki is not part of any welfare county.
 
 ### Who can you vote for?
 
