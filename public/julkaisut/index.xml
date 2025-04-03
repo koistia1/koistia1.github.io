@@ -9,17 +9,24 @@
       <url>http://localhost:1313/img/anttikoistinen-cover.png</url>
       <link>http://localhost:1313/img/anttikoistinen-cover.png</link>
     </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.140.2</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen © 2025</copyright>
-    <lastBuildDate>Mon, 31 Mar 2025 16:43:25 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 16:28:34 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/julkaisut/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Municipal elections in Finland: a short guide for foreigners</title>
+      <link>http://localhost:1313/julkaisut/municipal_elections/</link>
+      <pubDate>Thu, 03 Apr 2025 16:28:34 +0300</pubDate>
+      <guid>http://localhost:1313/julkaisut/municipal_elections/</guid>
+      <description>In this blog post, I tell the basics of municipal and county elections we have in Finland this April.</description>
+    </item>
+    <item>
       <title>Kannattaisiko sittenkin investoida hyvän sään aikana?</title>
-      <link>http://localhost:1313/julkaisut/jarvenpaan_talous/</link>
+      <link>http://localhost:1313/julkaisut/investoi_hyvan_saan_aikana/</link>
       <pubDate>Mon, 31 Mar 2025 16:43:25 +0300</pubDate>
-      <guid>http://localhost:1313/julkaisut/jarvenpaan_talous/</guid>
-      <description>Järvenpää on säästänyt investoinneista ja leikannut palveluita, mikä luo tulevaisuuteen korjausvelkaa. Nyt olisi aika panostaa järkevästi kasvuun ja investointeihin – vaikka sitten lainalla tai veronkorotuksilla.</description>
+      <guid>http://localhost:1313/julkaisut/investoi_hyvan_saan_aikana/</guid>
+      <description>Järvenpää on säästänyt investoinneista ja leikannut palveluita, mikä luo tulevaisuuteen korjausvelkaa. Nyt olisi aika panostaa järkevästi kasvuun ja investointeihin.</description>
     </item>
     <item>
       <title>Empatia vaalikentillä – miksi poliittinen vastustaja ei ole vihollinen?</title>
