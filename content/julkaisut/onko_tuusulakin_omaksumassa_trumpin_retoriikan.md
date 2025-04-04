@@ -14,7 +14,7 @@ summary: 'Tuusulan pormestariehdokkaan vaalilehdestä löytyy Trump-myönteisiä
 
 Yllä on suora sitaatti Tuusulan pormestarin **Kalle Ikkelän** [kuntavaalilehdestä (s. 10)](https://www.kalleikkela.fi/kuntavaalien-2025-vaalilehti/). Ikkelä on Kokoomuksen pormestariehdokas ja ehdolla toiselle pormestarikaudelle.
 
-Ikkelä ajattelee sukupuoli-, seksuaali- ja varmaan kaikki muidenkin vähemmistöjen asioista täysin toisella tavalla kuin minä itse. Hän flirttailee Trump-myönteisillä puheillaan tavalla, joka pitää tuomita. Lisäksi hän vaikuttaa olevan myös vähän tietämätön puhumistaan asioista, koska hän jotenkin sotkee keskusteluun mukaan kysymykset työyhteisöistä ja ansiottomista ylennyksistä. Miten ne liittyvät esimerkiksi DEI-kysymyksiin?
+Ikkelä ajattelee sukupuoli-, seksuaali- ja varmaan kaikkien muidenkin vähemmistöjen asioista täysin toisella tavalla kuin minä itse. Hän flirttailee Trump-myönteisillä puheillaan tavalla, joka pitää tuomita. Lisäksi hän vaikuttaa olevan myös vähän tietämätön puhumistaan asioista, koska hän jotenkin sotkee keskusteluun mukaan kysymykset työyhteisöistä ja ansiottomista ylennyksistä. Miten ne liittyvät esimerkiksi DEI-kysymyksiin?
 
 Vihreiden tamperelainen kunta- ja aluevaaliehdokas **Perttu Jussila** julkaisi Instagramissa mainion [Kelat-videon](https://www.instagram.com/reel/DGplQBAt7JW/?igsh=MTNjbGhrODBpOHAyOA==), jossa hän osoitti, miten ihmisryhmien jakaminen ”meihin” ja ”muihin” aloittaa helposti vaarallisen kehityskulun kohti syrjintää ja ihmisarvon kieltämistä. Juuri tällaista retoriikkaa – sukupuolten ja ihmisten jaottelua sekä DEI-työn väheksyntää – harjoittaa myös Ikkelä. On aiheellista kysyä, minkälaiselle tielle hän Tuusulaa vie?
 
