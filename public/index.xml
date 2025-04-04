@@ -12,15 +12,21 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen © 2025</copyright>
-    <lastBuildDate>Thu, 03 Apr 2025 16:28:34 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 10:42:41 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Municipal elections</title>
+      <title>Onko Tuusulakin omaksumassa Trumpin retoriikan?</title>
+      <link>http://localhost:1313/julkaisut/onko_tuusulakin_omaksumassa_trumpin_retoriikan/</link>
+      <pubDate>Fri, 04 Apr 2025 10:42:41 +0300</pubDate>
+      <guid>http://localhost:1313/julkaisut/onko_tuusulakin_omaksumassa_trumpin_retoriikan/</guid>
+      <description>Tuusulan pormestariehdokkaan vaalilehdestä löytyy Trump-myönteisiä sävyjä, joita ei pidä ohittaa kevyesti.</description>
+    </item>
+    <item>
+      <title>Municipal and county elections in Finland: a short guide for foreigners</title>
       <link>http://localhost:1313/julkaisut/municipal_elections/</link>
       <pubDate>Thu, 03 Apr 2025 16:28:34 +0300</pubDate>
       <guid>http://localhost:1313/julkaisut/municipal_elections/</guid>
-      <description>&lt;p&gt;In this blog post, I tell the basics of municipal and county elections we have in Finland this April. I also put in some the Finnish names of different things in brackets, this might help you to learn some basic election vocabulary in Finnish!&lt;/p&gt;
-&lt;p&gt;I am writing this post in English because I have several friends who don&amp;rsquo;t speak Finnish, and I want to help you out. Foreigners are eligible to vote in the municipal elections (&lt;em&gt;kuntavaalit&lt;/em&gt;) if they are at least 18 years old on the election day &lt;em&gt;and&lt;/em&gt; you have had a municipality of residence in Finland for an uninterrupted period of two years. Basically, if you&amp;rsquo;ve lived here for over two years, you have a right to vote in the municipal elections even if you are not a citizen of Finland or other EU country.&lt;/p&gt;</description>
+      <description>A short guide for foreigners on voting in Finland’s municipal and county elections in April 2025. Find out who is eligible, how and where to vote, and why your vote matters.</description>
     </item>
     <item>
       <title>Kannattaisiko sittenkin investoida hyvän sään aikana?</title>
