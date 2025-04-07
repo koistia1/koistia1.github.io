@@ -9,11 +9,18 @@
       <url>http://localhost:1313/img/anttikoistinen-cover.png</url>
       <link>http://localhost:1313/img/anttikoistinen-cover.png</link>
     </image>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen © 2025</copyright>
-    <lastBuildDate>Fri, 04 Apr 2025 10:42:41 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 17:22:25 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/julkaisut/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kuinka saat pääset helposti eroon persikasta taustaväristä</title>
+      <link>http://localhost:1313/julkaisut/hs_visio/</link>
+      <pubDate>Mon, 07 Apr 2025 17:22:25 +0300</pubDate>
+      <guid>http://localhost:1313/julkaisut/hs_visio/</guid>
+      <description>Tässä kirjoituksessa neuvon, miten pääset melko helposti eroon persikanvärisestä taustasta tietyssä verkkosivustossa.</description>
+    </item>
     <item>
       <title>Onko Tuusulakin omaksumassa Trumpin retoriikan?</title>
       <link>http://localhost:1313/julkaisut/onko_tuusulakin_omaksumassa_trumpin_retoriikan/</link>
