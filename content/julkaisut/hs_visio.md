@@ -1,7 +1,7 @@
 ---
 date: '2025-04-07T17:22:25+03:00'
 draft: false
-title: 'Kuinka saat pääset helposti eroon persikasta taustaväristä'
+title: 'Kuinka saat pääset helposti eroon persikasta taustaväristä sillä yhdellä nettisivulla'
 summary: 'Tässä kirjoituksessa neuvon, miten pääset melko helposti eroon persikanvärisestä taustasta tietyssä verkkosivustossa.'
 description: 'Tässä kirjoituksessa neuvon, miten pääset melko helposti eroon persikanvärisestä taustasta tietyssä verkkosivustossa.'
 author: Antti Koistinen
@@ -16,7 +16,7 @@ Nyt jaksoin vihdoinkin tehdä asialle jotain, ja tee-se-itse-hengessä ajattelin
 
 ### Mene verkkosivullesi ja aktivoi Stylus
 
-Avaa kaipaamasi verkkosivu, ja klikkaa Styluksen ikonia selaimessa. Valitse `Write style for: domain.com`.
+Avaa kaipaamasi verkkosivu, ja klikkaa Styluksen ikonia selaimessa. Valitse `Write style for: [sivuston osoite]`.
 
 ### Syötä kaipaamasi koodinpätkä avautuvaan ikkunaan
 
