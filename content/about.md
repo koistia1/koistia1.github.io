@@ -3,6 +3,7 @@ date: '2025-01-20T17:32:33+02:00'
 draft: false
 title: 'Minusta'
 menus: main
+author: Antti Koistinen
 #cover:
 #  image: "https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png"
 #  # can also paste direct link from external site
@@ -11,7 +12,7 @@ menus: main
 #  caption: "<text>"
 #  relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
-35-vuotias tutkija ja sivutoiminen yrittäjä Järvenpäästä.
+36-vuotias tutkija ja sivutoiminen yrittäjä Järvenpäästä.
 
 Olen vuodesta 2020 alkaen tehnyt väitöskirjaa Aalto-yliopiston kemian tekniikan korkeakoulussa. Väitöskirjani käsittelee selluloosan reaktiivisuutta, ja tutkimukseni keskeisiä sovelluskohteita löytyy esimerkiksi uusien tekstiilikuitujen alueelta. Pääsen väittelemään todennäköisesti kesään 2025 mennessä.
 
