@@ -42,5 +42,7 @@ params:
     favicon16x16: "/img/favicon-16x16.png"
     favicon32x32: "/img/favicon-32x32.png"
     apple_touch_icon: "/img/apple-touch-icon.png"
+    customCSS:
+      - css/custom.css
 
   images: ["img/anttikoistinen-cover.png"]
