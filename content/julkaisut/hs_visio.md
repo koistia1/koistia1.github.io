@@ -1,7 +1,7 @@
 ---
 date: '2025-04-07T17:22:25+03:00'
 draft: false
-title: 'Kuinka saat pääset helposti eroon persikasta taustaväristä sillä yhdellä nettisivulla'
+title: 'Kuinka pääset helposti eroon persikasta taustaväristä sillä yhdellä nettisivulla'
 summary: 'Tässä kirjoituksessa neuvon, miten pääset melko helposti eroon persikanvärisestä taustasta tietyssä verkkosivustossa.'
 description: 'Tässä kirjoituksessa neuvon, miten pääset melko helposti eroon persikanvärisestä taustasta tietyssä verkkosivustossa.'
 author: Antti Koistinen
