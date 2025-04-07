@@ -137,14 +137,14 @@
 
 <article class="post-entry"> 
   <header class="entry-header">
-    <h2 class="entry-hint-parent">Kuinka saat pääset helposti eroon persikasta taustaväristä sillä yhdellä nettisivulla
+    <h2 class="entry-hint-parent">Kuinka pääset helposti eroon persikasta taustaväristä sillä yhdellä nettisivulla
     </h2>
   </header>
   <div class="entry-content">
     <p>Tässä kirjoituksessa neuvon, miten pääset melko helposti eroon persikanvärisestä taustasta tietyssä verkkosivustossa.</p>
   </div>
   <footer class="entry-footer"><span title='2025-04-07 17:22:25 +0300 EEST'>huhtikuuta 7, 2025</span>&nbsp;·&nbsp;Antti Koistinen</footer>
-  <a class="entry-link" aria-label="post link to Kuinka saat pääset helposti eroon persikasta taustaväristä sillä yhdellä nettisivulla" href="http://localhost:1313/julkaisut/hs_visio/"></a>
+  <a class="entry-link" aria-label="post link to Kuinka pääset helposti eroon persikasta taustaväristä sillä yhdellä nettisivulla" href="http://localhost:1313/julkaisut/hs_visio/"></a>
 </article>
 
 <article class="post-entry"> 
@@ -346,30 +346,78 @@
 
 </script>
 <style>
-    #cookie-notice {font-size: larger; padding: 0.5rem 1rem; display: none;
-    text-align: center; position: fixed; bottom: 0; left: 20px; padding-top: 40px;
-    padding-bottom: 40px; width: 100%; background: rgb(70, 70, 70);
-    color: rgba(255,255,255,0.8);}
-    
-    #cookie-notice a {font-weight: 600; display: inline-flex; cursor: pointer; margin-left: 0.5rem;}
-    #cookie-notice-accept {color:rgb(86, 228, 58)}
-    #cookie-notice-deny {color:rgb(243, 34, 34)}
-    @media (max-width: 767px) {
-        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
-        #cookie-notice a {position: relative; bottom: 4px;}
-        #cookie-notice {left: 0px;}
-        }
-    
+    #cookie-notice {
+      position: fixed;
+      bottom: 1rem;
+      left: 1rem;
+      right: 1rem;
+      background-color: #222;
+      color: #fff;
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      line-height: 1.5;
+      z-index: 10000;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      display: none;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+  
+    #cookie-notice span {
+      display: block;
+      margin-bottom: 0.75rem;
+    }
+  
+    #cookie-notice a {
+      text-decoration: none;
+      font-weight: 600;
+      padding: 0.4rem 1rem;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 0.9rem;
+    }
+  
+    #cookie-notice-accept {
+      background-color: #4caf50;
+      color: #fff;
+      margin-right: 0.5rem;
+    }
+  
+    #cookie-notice-deny {
+      background-color: #f44336;
+      color: #fff;
+      margin-right: 0.5rem;
+    }
+  
+    #cookie-notice-more {
+      background-color: transparent;
+      color: #f1c40f;
+      text-decoration: underline;
+      padding: 0.4rem 0;
+    }
+  
+    @media (max-width: 500px) {
+      #cookie-notice {
+        font-size: 0.85rem;
+        padding: 1rem;
+      }
+      #cookie-notice a {
+        display: block;
+        margin: 0.3rem 0;
+      }
+    }
+  </style>
+  
+  <div id="cookie-notice">
+    <span>🍪 We would like to use third party cookies and scripts to improve the functionality of this website.</span>
+    <a id="cookie-notice-accept">Approve</a>
+    <a id="cookie-notice-deny">Deny</a>
+    <a id="cookie-notice-more" href="/privacy">More info</a>
+  </div>
+  
 
-</style>
-
-<div id="cookie-notice">
-    <span>🍪 We would like to use third party cookies and scripts to improve the 
-    functionality of this website.</span>
-    <a id="cookie-notice-accept" class="btn btn-primary btn-sm">Approve</a>
-    <a id="cookie-notice-deny" class="btn btn-primary btn-sm">Deny</a>
-    <a href="/privacy" class="btn btn-primary btn-sm">More info</a></div>
-    <script>
+<script>
         function createCookie(name,value,days) {
             var expires = "";
             if (days) {
@@ -410,8 +458,7 @@
             document.getElementById('cookie-notice').style.display = 'none';
             location.reload();
         });
-    
-    </script>
+</script>
     
 </body>
 

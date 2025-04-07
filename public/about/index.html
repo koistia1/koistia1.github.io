@@ -7,11 +7,11 @@
 <meta name="robots" content="noindex, nofollow">
 <title>Minusta | Antti Koistinen</title>
 <meta name="keywords" content="">
-<meta name="description" content="35-vuotias tutkija ja sivutoiminen yrittäjä Järvenpäästä.
+<meta name="description" content="36-vuotias tutkija ja sivutoiminen yrittäjä Järvenpäästä.
 Olen vuodesta 2020 alkaen tehnyt väitöskirjaa Aalto-yliopiston kemian tekniikan korkeakoulussa. Väitöskirjani käsittelee selluloosan reaktiivisuutta, ja tutkimukseni keskeisiä sovelluskohteita löytyy esimerkiksi uusien tekstiilikuitujen alueelta. Pääsen väittelemään todennäköisesti kesään 2025 mennessä.
 Muutin Järvenpäähän kesällä 2024, ja kaupunki alkoi tuntua kodilta ensimmäisestä viikosta alkaen. Keväällä 2025 olen ehdolla vihreiden listoilla kuntavaaleissa.
 Harrastuksiini kuuluu mieskuorolaulu Polyteknikkojen Kuorossa (1. tenori), partio, valokuvaus vanhoilla kameroilla ja vanhan vuoden 1989 Mercedes-Benz 190E -henkilöauton huoltaminen.">
-<meta name="author" content="">
+<meta name="author" content="Antti Koistinen">
 <link rel="canonical" href="http://localhost:1313/about/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.9de45e225101e4f99701d2b68fc6b8a1ef6027928be6391fa15bf7f56326c909.css" integrity="sha256-neReIlEB5PmXAdK2j8a4oe9gJ5KL5jkfoVv39WMmyQk=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/img/favicon.ico">
@@ -138,11 +138,11 @@ Harrastuksiini kuuluu mieskuorolaulu Polyteknikkojen Kuorossa (1. tenori), parti
     <h1 class="post-title entry-hint-parent">
       Minusta
     </h1>
-    <div class="post-meta"><span title='2025-01-20 17:32:33 +0200 EET'>tammikuuta 20, 2025</span>
+    <div class="post-meta"><span title='2025-01-20 17:32:33 +0200 EET'>tammikuuta 20, 2025</span>&nbsp;·&nbsp;Antti Koistinen
 
 </div>
   </header> 
-  <div class="post-content"><p>35-vuotias tutkija ja sivutoiminen yrittäjä Järvenpäästä.</p>
+  <div class="post-content"><p>36-vuotias tutkija ja sivutoiminen yrittäjä Järvenpäästä.</p>
 <p>Olen vuodesta 2020 alkaen tehnyt väitöskirjaa Aalto-yliopiston kemian tekniikan korkeakoulussa. Väitöskirjani käsittelee selluloosan reaktiivisuutta, ja tutkimukseni keskeisiä sovelluskohteita löytyy esimerkiksi uusien tekstiilikuitujen alueelta. Pääsen väittelemään todennäköisesti kesään 2025 mennessä.</p>
 <p>Muutin Järvenpäähän kesällä 2024, ja kaupunki alkoi tuntua kodilta ensimmäisestä viikosta alkaen. Keväällä 2025 olen ehdolla vihreiden listoilla kuntavaaleissa.</p>
 <p>Harrastuksiini kuuluu mieskuorolaulu <a href="https://www.polyteknikkojenkuoro.fi">Polyteknikkojen Kuorossa</a> (1. tenori), partio, valokuvaus vanhoilla kameroilla ja vanhan vuoden 1989 Mercedes-Benz 190E -henkilöauton huoltaminen.</p>
@@ -247,30 +247,78 @@ Harrastuksiini kuuluu mieskuorolaulu Polyteknikkojen Kuorossa (1. tenori), parti
 
 </script>
 <style>
-    #cookie-notice {font-size: larger; padding: 0.5rem 1rem; display: none;
-    text-align: center; position: fixed; bottom: 0; left: 20px; padding-top: 40px;
-    padding-bottom: 40px; width: 100%; background: rgb(70, 70, 70);
-    color: rgba(255,255,255,0.8);}
-    
-    #cookie-notice a {font-weight: 600; display: inline-flex; cursor: pointer; margin-left: 0.5rem;}
-    #cookie-notice-accept {color:rgb(86, 228, 58)}
-    #cookie-notice-deny {color:rgb(243, 34, 34)}
-    @media (max-width: 767px) {
-        #cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
-        #cookie-notice a {position: relative; bottom: 4px;}
-        #cookie-notice {left: 0px;}
-        }
-    
+    #cookie-notice {
+      position: fixed;
+      bottom: 1rem;
+      left: 1rem;
+      right: 1rem;
+      background-color: #222;
+      color: #fff;
+      padding: 1rem 1.5rem;
+      border-radius: 8px;
+      font-size: 0.95rem;
+      line-height: 1.5;
+      z-index: 10000;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      display: none;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+  
+    #cookie-notice span {
+      display: block;
+      margin-bottom: 0.75rem;
+    }
+  
+    #cookie-notice a {
+      text-decoration: none;
+      font-weight: 600;
+      padding: 0.4rem 1rem;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 0.9rem;
+    }
+  
+    #cookie-notice-accept {
+      background-color: #4caf50;
+      color: #fff;
+      margin-right: 0.5rem;
+    }
+  
+    #cookie-notice-deny {
+      background-color: #f44336;
+      color: #fff;
+      margin-right: 0.5rem;
+    }
+  
+    #cookie-notice-more {
+      background-color: transparent;
+      color: #f1c40f;
+      text-decoration: underline;
+      padding: 0.4rem 0;
+    }
+  
+    @media (max-width: 500px) {
+      #cookie-notice {
+        font-size: 0.85rem;
+        padding: 1rem;
+      }
+      #cookie-notice a {
+        display: block;
+        margin: 0.3rem 0;
+      }
+    }
+  </style>
+  
+  <div id="cookie-notice">
+    <span>🍪 We would like to use third party cookies and scripts to improve the functionality of this website.</span>
+    <a id="cookie-notice-accept">Approve</a>
+    <a id="cookie-notice-deny">Deny</a>
+    <a id="cookie-notice-more" href="/privacy">More info</a>
+  </div>
+  
 
-</style>
-
-<div id="cookie-notice">
-    <span>🍪 We would like to use third party cookies and scripts to improve the 
-    functionality of this website.</span>
-    <a id="cookie-notice-accept" class="btn btn-primary btn-sm">Approve</a>
-    <a id="cookie-notice-deny" class="btn btn-primary btn-sm">Deny</a>
-    <a href="/privacy" class="btn btn-primary btn-sm">More info</a></div>
-    <script>
+<script>
         function createCookie(name,value,days) {
             var expires = "";
             if (days) {
@@ -311,8 +359,7 @@ Harrastuksiini kuuluu mieskuorolaulu Polyteknikkojen Kuorossa (1. tenori), parti
             document.getElementById('cookie-notice').style.display = 'none';
             location.reload();
         });
-    
-    </script>
+</script>
     
 </body>
 
