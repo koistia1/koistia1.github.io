@@ -9,11 +9,18 @@
       <url>http://localhost:1313/img/anttikoistinen-cover.png</url>
       <link>http://localhost:1313/img/anttikoistinen-cover.png</link>
     </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.141.0</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen © 2025</copyright>
-    <lastBuildDate>Mon, 07 Apr 2025 20:39:54 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 15:48:22 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kokoomuksen kasvot näkyvät</title>
+      <link>http://localhost:1313/julkaisut/kela/</link>
+      <pubDate>Fri, 11 Apr 2025 15:48:22 +0300</pubDate>
+      <guid>http://localhost:1313/julkaisut/kela/</guid>
+      <description>Pohdin blogikirjoituksessani Kelan pääjohtajavalinnan viivästymistä ja sitä, miten kokoomuksen toiminta herättää kysymyksiä poliittisesta ohjauksesta ja virkanimitysten läpinäkyvyydestä. Tuon esiin turhautumiseni ja toiveeni siitä, että päätökset tehtäisiin osaamisen, ei puoluekirjan, perusteella.</description>
+    </item>
     <item>
       <title>Privacy Policy</title>
       <link>http://localhost:1313/privacy/</link>
@@ -67,20 +74,6 @@
       <description>Järvenpää on säästänyt investoinneista ja leikannut palveluita, mikä luo tulevaisuuteen korjausvelkaa. Nyt olisi aika panostaa järkevästi kasvuun ja investointeihin.</description>
     </item>
     <item>
-      <title>Nuoriso</title>
-      <link>http://localhost:1313/julkaisut/nuoriso/</link>
-      <pubDate>Sun, 30 Mar 2025 20:28:01 +0300</pubDate>
-      <guid>http://localhost:1313/julkaisut/nuoriso/</guid>
-      <description>Politiikka ei tarvitse lisää vastakkainasettelua, vaan enemmän empatiaa. Tässä kirjoituksessa pohdin, miksi poliittinen vastustaja ei ole vihollinen, ja miten voimme rakentaa inhimillisempää keskustelukulttuuria myös silloin, kun olemme eri mieltä.</description>
-    </item>
-    <item>
-      <title>Nuoret tarvitsevat tilaa ja tiloja</title>
-      <link>http://localhost:1313/julkaisut/tilaa_nuorille/</link>
-      <pubDate>Thu, 27 Mar 2025 16:30:53 +0200</pubDate>
-      <guid>http://localhost:1313/julkaisut/tilaa_nuorille/</guid>
-      <description>Tässä kirjoituksessa pohdin, miksi nuorten hyvinvointi ei rakennu pelkillä päätöksillä, vaan aidolla läsnäololla ja teoilla, joihin me aikuiset voimme tarttua.</description>
-    </item>
-    <item>
       <title>Empatia vaalikentillä – miksi poliittinen vastustaja ei ole vihollinen?</title>
       <link>http://localhost:1313/julkaisut/empaattisempi_politiikka/</link>
       <pubDate>Thu, 27 Mar 2025 11:14:24 +0200</pubDate>
@@ -124,15 +117,6 @@
       <pubDate>Wed, 29 Jan 2025 15:16:39 +0200</pubDate>
       <guid>http://localhost:1313/julkaisut/ihmisoikeudet_eivat_ole_sekoilua/</guid>
       <description>Käsittelen tasa-arvoa, ihmisoikeuksia ja sukupuolivähemmistöjen oikeuksia vastauksena perussuomalaisten &amp;#34;Sekoilu seis&amp;#34; -vaaliteemaan. Tuon esille, miksi nämä aiheet ovat tärkeitä turvallisuuden ja talouden näkökulmasta sekä miksi keskustelun jatkaminen on välttämätöntä.</description>
-    </item>
-    <item>
-      <title>Vaaliajatuksia</title>
-      <link>http://localhost:1313/julkaisut/vaaliajatuksia/</link>
-      <pubDate>Mon, 27 Jan 2025 22:14:40 +0200</pubDate>
-      <guid>http://localhost:1313/julkaisut/vaaliajatuksia/</guid>
-      <description>&lt;p&gt;Olen ehdolla kevään 2025 kuntavaaleissa kotikunnassani Järvenpäässä.&lt;/p&gt;
-&lt;p&gt;Meillä kotona jutellaan paljon politiikasta. Minulla ja kumppanillani on erinomaisia keskusteluja; olemme monista asioista samaa mieltä, mutta osaamme olla myös eri mieltä, ja kunnioitamme toistemme mielipiteitä.&lt;/p&gt;
-&lt;p&gt;On pitkälti kumppanini ansiota, että olen lähtenyt politiikkaan mukaan. Test&lt;/p&gt;</description>
     </item>
     <item>
       <title>Q-itu Solutions</title>

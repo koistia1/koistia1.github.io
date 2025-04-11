@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Kuinka pääset helposti eroon persikasta taustaväristä sillä yhdellä nettisivulla | Antti Koistinen</title>
+<title>Kokoomuksen kasvot näkyvät | Antti Koistinen</title>
 <meta name="keywords" content="">
-<meta name="description" content="Tässä kirjoituksessa neuvon, miten pääset melko helposti eroon persikanvärisestä taustasta tietyssä verkkosivustossa.">
-<meta name="author" content="Antti Koistinen">
-<link rel="canonical" href="http://localhost:1313/julkaisut/hs_visio/">
+<meta name="description" content="Pohdin blogikirjoituksessani Kelan pääjohtajavalinnan viivästymistä ja sitä, miten kokoomuksen toiminta herättää kysymyksiä poliittisesta ohjauksesta ja virkanimitysten läpinäkyvyydestä. Tuon esiin turhautumiseni ja toiveeni siitä, että päätökset tehtäisiin osaamisen, ei puoluekirjan, perusteella.">
+<meta name="author" content="">
+<link rel="canonical" href="http://localhost:1313/julkaisut/kela/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.45e028aa8ce0961349adf411b013ee39406be2c0bc80d4ea3fc04555f7f4611a.css" integrity="sha256-ReAoqozglhNJrfQRsBPuOUBr4sC8gNTqP8BFVff0YRo=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/img/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/img/favicon-16x16.png">
@@ -18,7 +18,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="fi" href="http://localhost:1313/julkaisut/hs_visio/">
+<link rel="alternate" hreflang="fi" href="http://localhost:1313/julkaisut/kela/">
 <noscript>
     <style>
         #theme-toggle,
@@ -133,36 +133,26 @@
   <header class="post-header">
     
     <h1 class="post-title entry-hint-parent">
-      Kuinka pääset helposti eroon persikasta taustaväristä sillä yhdellä nettisivulla
+      Kokoomuksen kasvot näkyvät
     </h1>
     <div class="post-description">
-      Tässä kirjoituksessa neuvon, miten pääset melko helposti eroon persikanvärisestä taustasta tietyssä verkkosivustossa.
+      Pohdin blogikirjoituksessani Kelan pääjohtajavalinnan viivästymistä ja sitä, miten kokoomuksen toiminta herättää kysymyksiä poliittisesta ohjauksesta ja virkanimitysten läpinäkyvyydestä. Tuon esiin turhautumiseni ja toiveeni siitä, että päätökset tehtäisiin osaamisen, ei puoluekirjan, perusteella.
     </div>
-    <div class="post-meta"><span title='2025-04-07 17:22:25 +0300 EEST'>huhtikuuta 7, 2025</span>&nbsp;·&nbsp;Antti Koistinen
+    <div class="post-meta"><span title='2025-04-11 15:48:22 +0300 EEST'>huhtikuuta 11, 2025</span>
 
 </div>
   </header> 
-  <div class="post-content"><p>Itseäni on ärsyttänyt jo muutaman vuoden ajan erään usein käyttämäni verkkosivuston taustaväri. Jostain hassusta brändiuudistuksellisesta syystä eräs suomalainen uutismedia alkoi värittää teknologia- ja talousaiheisia uutisiaan kellertävällä taustavärillä.</p>
-<p>Nyt jaksoin vihdoinkin tehdä asialle jotain, ja tee-se-itse-hengessä ajattelin jakaa nämä helpot ohjeet myös teille muille. Tässä olkaa hyvä!</p>
-<h3 id="lataa-selainlisäosa-stylus">Lataa selainlisäosa <strong>Stylus</strong><a hidden class="anchor" aria-hidden="true" href="#lataa-selainlisäosa-stylus">#</a></h3>
-<p><strong>Stylus</strong>-lisäosalla pääset helposti ajamaan omia tyylitietojasi, esim. CSS-koodia, valitsemillasi verkkosivuilla. Itse käytän Firefox-selainta, ja latasin lisäosan täällä: <a href="https://addons.mozilla.org/en-US/firefox/addon/styl-us/">https://addons.mozilla.org/en-US/firefox/addon/styl-us/</a></p>
-<h3 id="mene-verkkosivullesi-ja-aktivoi-stylus">Mene verkkosivullesi ja aktivoi Stylus<a hidden class="anchor" aria-hidden="true" href="#mene-verkkosivullesi-ja-aktivoi-stylus">#</a></h3>
-<p>Avaa kaipaamasi verkkosivu, ja klikkaa Styluksen ikonia selaimessa. Valitse <code>Write style for: [sivuston osoite]</code>.</p>
-<h3 id="syötä-kaipaamasi-koodinpätkä-avautuvaan-ikkunaan">Syötä kaipaamasi koodinpätkä avautuvaan ikkunaan<a hidden class="anchor" aria-hidden="true" href="#syötä-kaipaamasi-koodinpätkä-avautuvaan-ikkunaan">#</a></h3>
-<p>Eteesi aukeaa uusi välilehti, johon voit syöttää kaipaamasi muutokset. Tähän tarvitset hieman CSS-koodin osaamista, mutta seuraava koodi poistaa hassut persikkavärit ja korvaa ne turvallisella ja tutulla valkoisella:</p>
-<pre tabindex="0"><code>@-moz-document domain(&#34;hs.fi&#34;) {
-
-    :root {
-        --sndp-color-brand-visio-light-powder: white !important;
-        --nof-semantic-color-grayscale-100: white !important;
-        /* Just in case it&#39;s re-declared multiple times */
-        --sndp-color-brand-visio-light-powder: white !important;
-    }
-
-}
-</code></pre><p>Lopuksi paina <strong>Save</strong> ja muutokset tulevat voimaan heti.</p>
-<h3 id="loppukaneetit-ja-muut-huomiot">Loppukaneetit ja muut huomiot<a hidden class="anchor" aria-hidden="true" href="#loppukaneetit-ja-muut-huomiot">#</a></h3>
-<p>Kaikkeen internetistä löytyvään koodiin kannattaa aina suhtautua varauksella. Käytä omalla vastuullasi, siis!</p>
+  <div class="post-content"><p><strong>Arto Satonen</strong> valittaneen välittömästi vaalien jälkeen Kansaneläkelaitoksen (Kela) uudeksi pääjohtajaksi. Häntä ei valita tehtävään tarvittavan osaamisensa tähden, vaan hänet valitaan, koska hänellä on oikean puolueen jäsenkirja taskussaan. Tällä kertaa oikea puolue on Kokoomus.</p>
+<p>Tilanne kuluvan hallituskauden päätösten kontekstissa on valtavan turhauttava ja ärsyttävä. Kelan tehtävä on vastata suomalaisten sosiaaliturvasta monissa eri elämäntilanteissa. Kelan kokonaisbudjetti on noin 18 miljardia (vuoden 2023 tieto, Kela), josta maksettuina Kelan etuuksina kansalaisille on 16,6 miljardia. Kokoomuksen <strong>Petteri Orpon</strong> johtama hallitus on ohjelmassaan toteuttanut leikkauksia suomalaisten sosiaaliturvaan. Arto Satonen on ollut työministerinä mukana hallituksessa, jonka päätökset ovat suoraan vaikuttaneet siihen, että yhä useampi suomalainen turvautuu Kelaan entistä vaikeammassa tilanteessa.</p>
+<h3 id="henkilö-sopimaton-asiassa-menettely-ala-arvoista">Henkilö sopimaton, asiassa menettely ala-arvoista<a hidden class="anchor" aria-hidden="true" href="#henkilö-sopimaton-asiassa-menettely-ala-arvoista">#</a></h3>
+<p>Kuten lehtitiedoista olemme voineet seurata, tilanne on nyt se, että kokoomus ja perussuomalaiset on Kelan valtuutettujensa voimin saaneet lykättyä Kelan pääjohtajavalinnan kuntavaalien jälkeiselle ajalle. Kuten on useasti jo todettu, tämä kaikki haiskahtaa siltä, että epätoivottu päätös on lykätty kuntavaalien jälkeen, jottei sen saama negatiivinen huomio sotkisi kuntavaalien tulosta.</p>
+<p>Kokoomus tietää mistä puhuu – he ovat nimittäin itsekin vastustaneet poliittisia virkanimityksiä, ja kutsuneet niitä jopa korruptioksi: vuonna 2020 Kokoomuksen ollessa oppositiossa puolue jätti kirjallisen kysymyksen poliittisten virkanimitysten lopettamisesta. Kahdeksantoista kansanedustajaa allekirjoitti kysymyksen, mukana mm. Arto Satonen itse, ja kaksi nykyistä kokoomuksen Kela-valtuutettua: <strong>Sari Sarkomaa</strong> ja <strong>Mia Laiho</strong>.</p>
+<p>Tilanne on kokoomuksen kannalta kaikin puolin kiusallinen. Heillä on kuitenkin tähän kaikkeen vielä yksi oljenkorsi käyttämättä: toimia omien arvojensa mukaisesti, ja nimittää tehtävään pätevimmäksi todettu ehdokas, <strong>Heli Backman</strong>. Backmanin valinnalla kaikki voittaisivat: kokoomus voisi osoittaa Suomen kansalle ja oppositiolle, että heillä on sitä selkärankaa, jota itse oppositiossa ollessaan ovat kaivanneet kaikilta.</p>
+<p>Pahoin kuitenkin pelkään, että tällaista selkärankaa ja esimerkillä johtamista ei tämän hallituksen kaudella kuitenkaan tulla näkemään.</p>
+<p>Lähteitä:
+<a href="https://www.hs.fi/politiikka/art-2000011162705.html">https://www.hs.fi/politiikka/art-2000011162705.html</a>
+<a href="https://yle.fi/a/74-20145691">https://yle.fi/a/74-20145691</a>
+<a href="https://www.kela.fi/rahoitus-ja-avainluvut">https://www.kela.fi/rahoitus-ja-avainluvut</a></p>
 
 
   </div>
