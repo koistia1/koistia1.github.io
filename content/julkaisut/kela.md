@@ -16,7 +16,7 @@ Kuten lehtitiedoista olemme voineet seurata, tilanne on nyt se, että kokoomus j
 
 Kokoomus tietää mistä puhuu – he ovat nimittäin itsekin vastustaneet poliittisia virkanimityksiä, ja kutsuneet niitä jopa korruptioksi: vuonna 2020 Kokoomuksen ollessa oppositiossa puolue jätti kirjallisen kysymyksen poliittisten virkanimitysten lopettamisesta. Kahdeksantoista kansanedustajaa allekirjoitti kysymyksen, mukana mm. Arto Satonen itse, ja kaksi nykyistä kokoomuksen Kela-valtuutettua: **Sari Sarkomaa** ja **Mia Laiho**.
 
-Tilanne on kokoomuksen kannalta kaikin puolin kiusallinen. Heillä on kuitenkin tähän kaikkeen vielä yksi oljenkorsi käyttämättä: toimia omien arvojensa mukaisesti, ja nimittää tehtävään pätevimmäksi todettu ehdokas, **Heli Backman**. Backmanin valinnalla kaikki voittaisivat: kokoomus voisi osoittaa Suomen kansalle ja oppositiolle, että heillä on sitä selkärankaa, jota itse oppositiossa ollessaan ovat kaivanneet kaikilta.
+Tilanne on kokoomuksen kannalta kaikin puolin kiusallinen. Heillä on kuitenkin yksi ylivertainen oljenkorsi: toimia omien arvojensa mukaisesti, ja nimittää tehtävään pätevimmäksi todettu ehdokas, **Heli Backman**. Backmanin valinnalla kaikki voittaisivat: kokoomus voisi osoittaa Suomen kansalle ja oppositiolle, että heillä on sitä selkärankaa, jota itse oppositiossa ollessaan ovat kaivanneet kaikilta.
 
 Pahoin kuitenkin pelkään, että tällaista selkärankaa ja esimerkillä johtamista ei tämän hallituksen kaudella kuitenkaan tulla näkemään.
 
