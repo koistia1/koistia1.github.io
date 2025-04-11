@@ -4,6 +4,7 @@ draft: false
 title: 'Kokoomuksen kasvot näkyvät'
 description: 'Pohdin blogikirjoituksessani Kelan pääjohtajavalinnan viivästymistä ja sitä, miten kokoomuksen toiminta herättää kysymyksiä poliittisesta ohjauksesta ja virkanimitysten läpinäkyvyydestä. Tuon esiin turhautumiseni ja toiveeni siitä, että päätökset tehtäisiin osaamisen, ei puoluekirjan, perusteella.'
 summary: 'Pohdin blogikirjoituksessani Kelan pääjohtajavalinnan viivästymistä ja sitä, miten kokoomuksen toiminta herättää kysymyksiä poliittisesta ohjauksesta ja virkanimitysten läpinäkyvyydestä. Tuon esiin turhautumiseni ja toiveeni siitä, että päätökset tehtäisiin osaamisen, ei puoluekirjan, perusteella.'
+author: 'Antti Koistinen'
 ---
 **Arto Satonen** valittaneen välittömästi vaalien jälkeen Kansaneläkelaitoksen (Kela) uudeksi pääjohtajaksi. Häntä ei valita tehtävään tarvittavan osaamisensa tähden, vaan hänet valitaan, koska hänellä on oikean puolueen jäsenkirja taskussaan. Tällä kertaa oikea puolue on Kokoomus.
 
