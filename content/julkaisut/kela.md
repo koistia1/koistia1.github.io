@@ -21,6 +21,6 @@ Tilanne on kokoomuksen kannalta kaikin puolin kiusallinen. Heillä on kuitenkin 
 Pahoin kuitenkin pelkään, että tällaista selkärankaa ja esimerkillä johtamista ei tämän hallituksen kaudella kuitenkaan tulla näkemään.
 
 Lähteitä:
-https://www.hs.fi/politiikka/art-2000011162705.html
-https://yle.fi/a/74-20145691
-https://www.kela.fi/rahoitus-ja-avainluvut
+- https://www.hs.fi/politiikka/art-2000011162705.html
+- https://yle.fi/a/74-20145691
+- https://www.kela.fi/rahoitus-ja-avainluvut
