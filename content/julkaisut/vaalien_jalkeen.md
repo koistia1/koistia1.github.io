@@ -1,7 +1,7 @@
 ---
 date: '2025-04-16T17:56:54+03:00'
 draft: false
-title: 'Vaalien jälkeen'
+title: 'Ei valtuustoon, mutta matka jatkuu'
 author: 'Antti Koistinen'
 description: 'Tässä kirjoituksessa vähän ajatuksiani kuntavaaleista 2025. En tullut valituksi, mutta sain 38 arvokasta ääntä! Kampanja oli hieno kokemus, ja työ Järvenpään hyväksi jatkuu.'
 summary: 'Tässä kirjoituksessa vähän ajatuksiani kuntavaaleista 2025. En tullut valituksi, mutta sain 38 arvokasta ääntä! Kampanja oli hieno kokemus, ja työ Järvenpään hyväksi jatkuu.'
