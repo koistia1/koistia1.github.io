@@ -1,8 +1,7 @@
 ---
 date: '2025-02-24T09:22:32+02:00'
-draft: false
+draft: true
 title: 'Briefly in English'
-menus: main
 ---
 Hello!
 

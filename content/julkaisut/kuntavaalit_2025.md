@@ -2,12 +2,11 @@
 date: '2025-02-09T11:39:18+02:00'
 draft: false
 title: 'Kuntavaalit 2025'
-menus: main
 ShowToc: true
-description: Olen ehdolla vuoden 2025 kuntavaaleissa Järvenpäässä Vihreiden listalla. Tällä sivulla kerron tärkeimmistä vaaliteemoistani.
-summary: Olen ehdolla vuoden 2025 kuntavaaleissa Järvenpäässä Vihreiden listalla. Tällä sivulla kerron tärkeimmistä vaaliteemoistani.
+description: Olin ehdolla vuoden 2025 kuntavaaleissa Järvenpäässä Vihreiden listalla. Tällä sivulla kerron tärkeimmistä vaaliteemoistani. 
+summary: Olin ehdolla vuoden 2025 kuntavaaleissa Järvenpäässä Vihreiden listalla. Tällä sivulla kerron tärkeimmistä vaaliteemoistani.
 ---
-Syvällisemmin ajatuksiani avaan myös [julkaisuissani](/julkaisut) – suosittelen tutustumaan!
+Tämä juttu oli oma alasivunsa vuoden 2025 kuntavaaleissa. Vaalien jälkeen siirsin tämän tänne julkaisut-osion puolelle, missä se säilyy jatkossakin eräänlaisena muistiona siitä, millaisia asioita ajoin Järvenpäässä 2025 vaaleissa.
 
 # Kulttuuri ja nuoriso
 
