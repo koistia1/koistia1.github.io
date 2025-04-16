@@ -18,7 +18,7 @@ Olipa vaalit. En tullut valituksi, mutta sain 38 ääntä! 38 järvenpääläist
 1. Olen asunut Järvenpäässä vasta yhdeksän kuukautta,
 2. Olin sairaana koko viimeisen vaaleja edeltävän viikon.
 
-Totisesti, olen ollut Järvenpäässä kirjoilla vasta ihan muutamia kuukausia, ja silti sain ihan hyvän nipun ääniä. En varmasti vielä tunne Järvenpäässä 38:aa ihmistä, joten vaaliviestini on varmasti tavoittanut itselleni tuntemattomia ihmisiä. Se on aika hieno tunne! En myöskään saanut aikaiseksi kunnon loppukiriä kampanjaani, sillä sairastuin viimeisellä viikolla. Se on vähän harmi, mutta tällaista tämä elämä on. 
+Totisesti, olen ollut Järvenpäässä kirjoilla vasta ihan muutamia kuukausia, ja silti sain ihan hyvän nipun ääniä. En varmasti vielä tunne Järvenpäässä 38:aa ihmistä, joten vaaliviestini on varmasti tavoittanut itselleni tuntemattomia äänestäjiä. Se on aika hieno tunne! En myöskään saanut aikaiseksi kunnon loppukiriä kampanjaani, sillä sairastuin viimeisellä viikolla. Se on vähän harmi, mutta tällaista tämä elämä on. 
 
 Vaalikampanja oli myös erittäin opettavainen kokemus. Opin, että minulla on omia harkittuja mielipiteitä myös politiikan kentällä, ja minulle luonteva tapa ilmaista niitä on tällaiset blogikirjoitukset. Sain myös palautetta, että näitä oli kiva lukea. Aion kirjoittaa jatkossakin.
 
