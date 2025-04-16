@@ -32,6 +32,7 @@ Mutta ei tämä tähän lopu: olen vähän tutustunut lautakuntien tehtäviin, j
 
 Kiitos kaikille upeista kuntavaaleista 2025! Vaalit ovat ohi, mutta työ Jäken eteen on vasta alussa.
 
-Hymyillään kun tavataan,
+Hymyillään kun tavataan!
+
 
 *Antti Koistinen*
