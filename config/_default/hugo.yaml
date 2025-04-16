@@ -24,8 +24,8 @@ params:
       #  url: "/about"
       #- name: Q-Itu Solutions
       #  url: "/q-itu"
-      - name: Lahjoita kuntavaalikampanjaani
-        url: "https://vaalit.vihreat.fi/embed/ehdokas/?kieli=fi&vaali=kuntavaalit-2025&kunta=k186&ehdokas=koistinen-antti-7915&valilehti=donate"
+
+
   
   socialIcons:
     - name: "LinkedIn"
