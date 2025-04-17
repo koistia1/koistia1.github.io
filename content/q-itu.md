@@ -20,6 +20,11 @@ Filmikuvaus
 
 Lähetä minulle sähköpostia, niin laaditaan teidän tarpeisiin sopiva ratkaisu.
 
+## Toteutuneet toimeksiannot
+
+* Mikroskopiakoulutus metsäteollisuuden pk-yritykselle luonnonkuitujen ja synteettisten kuitujen tunnistamisesta
+
+
 ## Yhteystiedot
 
 Sähköposti

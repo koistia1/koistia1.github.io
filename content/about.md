@@ -12,13 +12,11 @@ author: Antti Koistinen
 #  caption: "<text>"
 #  relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
-36-vuotias tutkija ja sivutoiminen yrittäjä Järvenpäästä.
+Tutkija ja sivutoiminen yrittäjä Järvenpäästä.
 
 Olen vuodesta 2020 alkaen tehnyt väitöskirjaa Aalto-yliopiston kemian tekniikan korkeakoulussa. Väitöskirjani käsittelee selluloosan reaktiivisuutta, ja tutkimukseni keskeisiä sovelluskohteita löytyy esimerkiksi uusien tekstiilikuitujen alueelta. Pääsen väittelemään todennäköisesti kesään 2025 mennessä.
 
-Muutin Järvenpäähän kesällä 2024, ja kaupunki alkoi tuntua kodilta ensimmäisestä viikosta alkaen. Keväällä 2025 olen ehdolla vihreiden listoilla kuntavaaleissa.
-
-Harrastuksiini kuuluu mieskuorolaulu [Polyteknikkojen Kuorossa](https://www.polyteknikkojenkuoro.fi) (1. tenori), partio, valokuvaus vanhoilla kameroilla ja vanhan vuoden 1989 Mercedes-Benz 190E -henkilöauton huoltaminen.
+Olen aktiivi Järvenpään vihreissä. Harrastuksiini kuuluu mieskuorolaulu [Polyteknikkojen Kuorossa](https://www.polyteknikkojenkuoro.fi) (1. tenori), partio, valokuvaus vanhoilla kameroilla ja vanhan vuoden 1989 Mercedes-Benz 190E -henkilöauton huoltaminen.
 
 Partion parissa olin pitkään mukana [Uudenmaan Partiopiirin](https://uusimaa.partio.fi) hallituksessa, lisäksi Suomen Partiolaisissa olin järjestämässä [Value Based Leadership](https://parempaajohtajuutta.fi) -koulutuksia vuosina 2020-2023.
 
