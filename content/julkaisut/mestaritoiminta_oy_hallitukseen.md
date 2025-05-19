@@ -7,4 +7,4 @@ Järvenpään vihreät esittää minua Mestaritoiminta Oy:n hallituksen varapuhe
 
 Mestaritoiminta Oy on osa Järvenpään kaupunkikonsernia. Yhtiö tuottaa Järvenpään kaupungille ja kaupunkikonsernille kiinteistöjen ylläpito-, kunnossapito-, rakennuttamis- ja asiantuntijapalveluita. Yhtiö muun muassa toimii rakennuttajana kaupungin rakennushankkeissa.
 
-Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valtuustokaudelle kokouksessaan 17.5. Uusi kaupunginvaltuusto aloittaa toimintansa kesäkuussa ja tekee luottamushenkilövalinnat ensimmäisessä kokouksessaan. Mestaritoiminta Oy valitsee hallituksen ja puheenjohtajat yhtiöjärjestyksensä mukaisesti.
+Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valtuustokaudelle kokouksessaan 17.5. Uusi kaupunginvaltuusto aloittaa toimintansa kesäkuussa ja tekee luottamushenkilövalinnat ensimmäisessä kokouksessaan. Mestaritoiminta Oy valitsee hallituksen ja puheenjohtajan yhtiöjärjestyksensä mukaisesti.
