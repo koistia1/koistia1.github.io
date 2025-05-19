@@ -15,7 +15,7 @@
     <lastBuildDate>Wed, 16 Apr 2025 17:56:54 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Vaalien jälkeen</title>
+      <title>Ei valtuustoon, mutta matka jatkuu</title>
       <link>http://localhost:1313/julkaisut/vaalien_jalkeen/</link>
       <pubDate>Wed, 16 Apr 2025 17:56:54 +0300</pubDate>
       <guid>http://localhost:1313/julkaisut/vaalien_jalkeen/</guid>
@@ -81,35 +81,11 @@
       <description>Järvenpää on säästänyt investoinneista ja leikannut palveluita, mikä luo tulevaisuuteen korjausvelkaa. Nyt olisi aika panostaa järkevästi kasvuun ja investointeihin.</description>
     </item>
     <item>
-      <title>Nuoriso</title>
-      <link>http://localhost:1313/julkaisut/nuoriso/</link>
-      <pubDate>Sun, 30 Mar 2025 20:28:01 +0300</pubDate>
-      <guid>http://localhost:1313/julkaisut/nuoriso/</guid>
-      <description>Politiikka ei tarvitse lisää vastakkainasettelua, vaan enemmän empatiaa. Tässä kirjoituksessa pohdin, miksi poliittinen vastustaja ei ole vihollinen, ja miten voimme rakentaa inhimillisempää keskustelukulttuuria myös silloin, kun olemme eri mieltä.</description>
-    </item>
-    <item>
-      <title>Nuoret tarvitsevat tilaa ja tiloja</title>
-      <link>http://localhost:1313/julkaisut/tilaa_nuorille/</link>
-      <pubDate>Thu, 27 Mar 2025 16:30:53 +0200</pubDate>
-      <guid>http://localhost:1313/julkaisut/tilaa_nuorille/</guid>
-      <description>Tässä kirjoituksessa pohdin, miksi nuorten hyvinvointi ei rakennu pelkillä päätöksillä, vaan aidolla läsnäololla ja teoilla, joihin me aikuiset voimme tarttua.</description>
-    </item>
-    <item>
       <title>Empatia vaalikentillä – miksi poliittinen vastustaja ei ole vihollinen?</title>
       <link>http://localhost:1313/julkaisut/empaattisempi_politiikka/</link>
       <pubDate>Thu, 27 Mar 2025 11:14:24 +0200</pubDate>
       <guid>http://localhost:1313/julkaisut/empaattisempi_politiikka/</guid>
       <description>Politiikka ei tarvitse lisää vastakkainasettelua, vaan enemmän empatiaa. Tässä kirjoituksessa pohdin, miksi poliittinen vastustaja ei ole vihollinen, ja miten voimme rakentaa inhimillisempää keskustelukulttuuria myös silloin, kun olemme eri mieltä.</description>
-    </item>
-    <item>
-      <title>Briefly in English</title>
-      <link>http://localhost:1313/in_english/</link>
-      <pubDate>Mon, 24 Feb 2025 09:22:32 +0200</pubDate>
-      <guid>http://localhost:1313/in_english/</guid>
-      <description>&lt;p&gt;Hello!&lt;/p&gt;
-&lt;p&gt;This is my website, welcome! I have a lot of content here in Finnish, and because I have plenty of people in my network who use English as their working language, I&amp;rsquo;ve decided to add a short summary for what&amp;rsquo;s going on. I am planning to include a full English translation of my site, but that&amp;rsquo;s going to take a while.&lt;/p&gt;
-&lt;h2 id=&#34;i-am-an-entrepreneur&#34;&gt;I am an entrepreneur&lt;/h2&gt;
-&lt;p&gt;In January 2025, I founded my own company, called &lt;em&gt;Q-itu Solutions&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. Through this business entity I sell my own expertise, especially related to R&amp;amp;D services around lignocellulosic fibers. In February, I closed my first sale, and I&amp;rsquo;ll be delivering a small task in a small company in my field.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lajismi, eläintuotanto ja kuntapolitiikka – miksi meidän on aika kyseenalaistaa eläinperäinen ruokavalio?</title>
@@ -140,15 +116,6 @@
       <description>Käsittelen tasa-arvoa, ihmisoikeuksia ja sukupuolivähemmistöjen oikeuksia vastauksena perussuomalaisten &amp;#34;Sekoilu seis&amp;#34; -vaaliteemaan. Tuon esille, miksi nämä aiheet ovat tärkeitä turvallisuuden ja talouden näkökulmasta sekä miksi keskustelun jatkaminen on välttämätöntä.</description>
     </item>
     <item>
-      <title>Vaaliajatuksia</title>
-      <link>http://localhost:1313/julkaisut/vaaliajatuksia/</link>
-      <pubDate>Mon, 27 Jan 2025 22:14:40 +0200</pubDate>
-      <guid>http://localhost:1313/julkaisut/vaaliajatuksia/</guid>
-      <description>&lt;p&gt;Olen ehdolla kevään 2025 kuntavaaleissa kotikunnassani Järvenpäässä.&lt;/p&gt;
-&lt;p&gt;Meillä kotona jutellaan paljon politiikasta. Minulla ja kumppanillani on erinomaisia keskusteluja; olemme monista asioista samaa mieltä, mutta osaamme olla myös eri mieltä, ja kunnioitamme toistemme mielipiteitä.&lt;/p&gt;
-&lt;p&gt;On pitkälti kumppanini ansiota, että olen lähtenyt politiikkaan mukaan. Test&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Q-itu Solutions</title>
       <link>http://localhost:1313/q-itu/</link>
       <pubDate>Mon, 20 Jan 2025 17:38:03 +0200</pubDate>
@@ -171,10 +138,10 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 20 Jan 2025 17:32:33 +0200</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;36-vuotias tutkija ja sivutoiminen yrittäjä Järvenpäästä.&lt;/p&gt;
+      <description>&lt;p&gt;Tutkija ja sivutoiminen yrittäjä Järvenpäästä.&lt;/p&gt;
 &lt;p&gt;Olen vuodesta 2020 alkaen tehnyt väitöskirjaa Aalto-yliopiston kemian tekniikan korkeakoulussa. Väitöskirjani käsittelee selluloosan reaktiivisuutta, ja tutkimukseni keskeisiä sovelluskohteita löytyy esimerkiksi uusien tekstiilikuitujen alueelta. Pääsen väittelemään todennäköisesti kesään 2025 mennessä.&lt;/p&gt;
-&lt;p&gt;Muutin Järvenpäähän kesällä 2024, ja kaupunki alkoi tuntua kodilta ensimmäisestä viikosta alkaen. Keväällä 2025 olen ehdolla vihreiden listoilla kuntavaaleissa.&lt;/p&gt;
-&lt;p&gt;Harrastuksiini kuuluu mieskuorolaulu &lt;a href=&#34;https://www.polyteknikkojenkuoro.fi&#34;&gt;Polyteknikkojen Kuorossa&lt;/a&gt; (1. tenori), partio, valokuvaus vanhoilla kameroilla ja vanhan vuoden 1989 Mercedes-Benz 190E -henkilöauton huoltaminen.&lt;/p&gt;</description>
+&lt;p&gt;Olen aktiivi Järvenpään vihreissä. Harrastuksiini kuuluu mieskuorolaulu &lt;a href=&#34;https://www.polyteknikkojenkuoro.fi&#34;&gt;Polyteknikkojen Kuorossa&lt;/a&gt; (1. tenori), partio, valokuvaus vanhoilla kameroilla ja vanhan vuoden 1989 Mercedes-Benz 190E -henkilöauton huoltaminen.&lt;/p&gt;
+&lt;p&gt;Partion parissa olin pitkään mukana &lt;a href=&#34;https://uusimaa.partio.fi&#34;&gt;Uudenmaan Partiopiirin&lt;/a&gt; hallituksessa, lisäksi Suomen Partiolaisissa olin järjestämässä &lt;a href=&#34;https://parempaajohtajuutta.fi&#34;&gt;Value Based Leadership&lt;/a&gt; -koulutuksia vuosina 2020-2023.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ensimmäinen julkaisu</title>

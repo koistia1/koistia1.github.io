@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-17T10:33:53+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/julkaisut/vaalien_jalkeen/</loc>
     <lastmod>2025-04-16T17:56:54+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/julkaisut/</loc>
-    <lastmod>2025-04-16T17:56:54+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/julkaisut/vaalien_jalkeen/</loc>
     <lastmod>2025-04-16T17:56:54+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/julkaisut/kela/</loc>
@@ -29,17 +29,8 @@
     <loc>http://localhost:1313/julkaisut/investoi_hyvan_saan_aikana/</loc>
     <lastmod>2025-03-31T16:43:25+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/julkaisut/nuoriso/</loc>
-    <lastmod>2025-03-30T20:28:01+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/julkaisut/tilaa_nuorille/</loc>
-    <lastmod>2025-03-27T16:30:53+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/julkaisut/empaattisempi_politiikka/</loc>
     <lastmod>2025-03-27T11:14:24+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/in_english/</loc>
-    <lastmod>2025-02-24T09:22:32+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/julkaisut/lajismi_elaintuotanto_ja_kuntapolitiikka_-_miksi_meidan_on_aika_kyseenalaistaa_elainperainen_ruokavalio/</loc>
     <lastmod>2025-02-23T19:50:16+02:00</lastmod>
@@ -52,9 +43,6 @@
   </url><url>
     <loc>http://localhost:1313/julkaisut/ihmisoikeudet_eivat_ole_sekoilua/</loc>
     <lastmod>2025-01-29T15:16:39+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/julkaisut/vaaliajatuksia/</loc>
-    <lastmod>2025-01-27T22:14:40+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/q-itu/</loc>
     <lastmod>2025-01-20T17:38:03+02:00</lastmod>
