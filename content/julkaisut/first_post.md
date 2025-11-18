@@ -1,6 +1,6 @@
 ---
 date: '2025-01-20T17:06:29+02:00'
-draft: false
+draft: true
 title: 'Ensimmäinen julkaisu'
 #cover:
 #  image: "https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png"

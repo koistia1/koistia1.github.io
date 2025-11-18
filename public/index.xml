@@ -12,8 +12,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen © 2025</copyright>
-    <lastBuildDate>Wed, 16 Apr 2025 17:56:54 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 11:41:25 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Järvenpään vihreät esittää minua Mestaritoiminta Oy:n hallituksen varapuheenjohtajaksi</title>
+      <link>http://localhost:1313/julkaisut/mestaritoiminta_oy_hallitukseen/</link>
+      <pubDate>Mon, 19 May 2025 11:41:25 +0300</pubDate>
+      <guid>http://localhost:1313/julkaisut/mestaritoiminta_oy_hallitukseen/</guid>
+      <description>&lt;p&gt;Järvenpään vihreät esittää minua Mestaritoiminta Oy:n hallituksen varapuheenjohtajaksi. Olen tästä nimityksestä otettu, kiitos luottamuksesta! Uskon, että tämä on merkittävä paikka tehdä vihreää kuntapolitiikkaa Järvenpäässä ja kehittää kaikkien kaupunkilaisten elämään vaikuttavia palveluita.&lt;/p&gt;
+&lt;p&gt;Mestaritoiminta Oy on osa Järvenpään kaupunkikonsernia. Yhtiö tuottaa Järvenpään kaupungille ja kaupunkikonsernille kiinteistöjen ylläpito-, kunnossapito-, rakennuttamis- ja asiantuntijapalveluita. Yhtiö muun muassa toimii rakennuttajana kaupungin rakennushankkeissa.&lt;/p&gt;
+&lt;p&gt;Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valtuustokaudelle kokouksessaan 17.5. Uusi kaupunginvaltuusto aloittaa toimintansa kesäkuussa ja tekee luottamushenkilövalinnat ensimmäisessä kokouksessaan. Mestaritoiminta Oy valitsee hallituksen ja puheenjohtajan yhtiöjärjestyksensä mukaisesti.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ei valtuustoon, mutta matka jatkuu</title>
       <link>http://localhost:1313/julkaisut/vaalien_jalkeen/</link>
@@ -116,43 +125,32 @@
       <description>Käsittelen tasa-arvoa, ihmisoikeuksia ja sukupuolivähemmistöjen oikeuksia vastauksena perussuomalaisten &amp;#34;Sekoilu seis&amp;#34; -vaaliteemaan. Tuon esille, miksi nämä aiheet ovat tärkeitä turvallisuuden ja talouden näkökulmasta sekä miksi keskustelun jatkaminen on välttämätöntä.</description>
     </item>
     <item>
-      <title>Q-itu Solutions</title>
-      <link>http://localhost:1313/q-itu/</link>
-      <pubDate>Mon, 20 Jan 2025 17:38:03 +0200</pubDate>
-      <guid>http://localhost:1313/q-itu/</guid>
-      <description>&lt;p&gt;Perustin Q-itu Solutions -toiminimen tammikuussa 2025. Yksityisenä elinkeinonharjoittajana tarjoan omaa osaamistani erikokoisille yrityksille ja muille ammatinharjoittajille. Olen käytettävissä erilaisissa toimeksiannoissa muun muassa seuraavien aiheiden tiimoilta:&lt;/p&gt;
-&lt;dl&gt;
-&lt;dt&gt;Kouluttaminen&lt;/dt&gt;
-&lt;dd&gt;Minulla on yli 15 vuoden kokemus asiantuntijoiden kouluttamisesta erilaisissa ympäristöissä, mm. erilaisista soveltavan kemian laboratoriotaidoista, opinnäytetöiden ohjaamisesta, sekä johtajien kouluttamisesta partiossa.&lt;/dd&gt;
-&lt;dt&gt;Julkinen rahoitus&lt;/dt&gt;
-&lt;dd&gt;Lähes viiden vuoden ajan toimin erilaisissa grant writer -tehtävissä &lt;em&gt;Spinverse Oy&lt;/em&gt;:ssä, keskittyen etenkin EU-hankehakemusten kirjoittamiseen ja konsortiohankkeiden valmisteluun.&lt;/dd&gt;
-&lt;dt&gt;Tieteellinen kirjoittaminen&lt;/dt&gt;
-&lt;dd&gt;Olen työskennellyt koko työurani tutkimukseen ja teknologiaan liittyvän kirjoitustyön parissa. Näin ollen minulta luonnistuu niin tieteellisen tekstin tuottaminen kuin tiedon kansantajuistaminenkin.&lt;/dd&gt;
-&lt;dt&gt;Filmikuvaus&lt;/dt&gt;
-&lt;dd&gt;Olen erikoistunut valokuvaamaan filmille, josta teen mustavalko- ja värivedoksia valokuvapaperille omassa kotipimiössäni Järvenpäässä. Tarjoan valokuvauspalveluitani pääasiassa kuluttaja-asiakkaille.&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;p&gt;Lähetä minulle sähköpostia, niin laaditaan teidän tarpeisiin sopiva ratkaisu.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Minusta</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 20 Jan 2025 17:32:33 +0200</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Tutkija ja sivutoiminen yrittäjä Järvenpäästä.&lt;/p&gt;
-&lt;p&gt;Olen vuodesta 2020 alkaen tehnyt väitöskirjaa Aalto-yliopiston kemian tekniikan korkeakoulussa. Väitöskirjani käsittelee selluloosan reaktiivisuutta, ja tutkimukseni keskeisiä sovelluskohteita löytyy esimerkiksi uusien tekstiilikuitujen alueelta. Pääsen väittelemään todennäköisesti kesään 2025 mennessä.&lt;/p&gt;
+      <description>&lt;p&gt;Olen vuodesta 2020 alkaen tehnyt väitöskirjaa Aalto-yliopiston kemian tekniikan korkeakoulussa. Väitöskirjani käsittelee selluloosan reaktiivisuutta, ja tutkimukseni keskeisiä sovelluskohteita löytyy esimerkiksi uusien tekstiilikuitujen alueelta. Väitöskirjani on tällä hetkellä esitarkastuksessa.&lt;/p&gt;
 &lt;p&gt;Olen aktiivi Järvenpään vihreissä. Harrastuksiini kuuluu mieskuorolaulu &lt;a href=&#34;https://www.polyteknikkojenkuoro.fi&#34;&gt;Polyteknikkojen Kuorossa&lt;/a&gt; (1. tenori), partio, valokuvaus vanhoilla kameroilla ja vanhan vuoden 1989 Mercedes-Benz 190E -henkilöauton huoltaminen.&lt;/p&gt;
-&lt;p&gt;Partion parissa olin pitkään mukana &lt;a href=&#34;https://uusimaa.partio.fi&#34;&gt;Uudenmaan Partiopiirin&lt;/a&gt; hallituksessa, lisäksi Suomen Partiolaisissa olin järjestämässä &lt;a href=&#34;https://parempaajohtajuutta.fi&#34;&gt;Value Based Leadership&lt;/a&gt; -koulutuksia vuosina 2020-2023.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ensimmäinen julkaisu</title>
-      <link>http://localhost:1313/julkaisut/first_post/</link>
-      <pubDate>Mon, 20 Jan 2025 17:06:29 +0200</pubDate>
-      <guid>http://localhost:1313/julkaisut/first_post/</guid>
-      <description>&lt;p&gt;Hei!&lt;/p&gt;
-&lt;p&gt;Tervetuloa sivuilleni! Tällä hetkellä ne ovat vielä hitusen työn alla. Olen kuitenkin aktiivisesti kirjoittamassa tänne lisää sisältöä ja lisäämässä kuvia kaikenlaisesta kiinnostavasta.&lt;/p&gt;
-&lt;p&gt;Ensimmäisenä lisäsin tänne kuitenkin lyhyet esittelytekstit &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;itsestäni&lt;/a&gt; ja tammikuussa &lt;a href=&#34;http://localhost:1313/q-itu/&#34;&gt;perustamastani toiminimestä&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Toiminimeni syntyi tarpeesta: minulta tiedusteltiin voisiko kauttani järjestyä eräs palvelu. Konsultoin pomoani ja omaa harkintaani ja  totesin, että kyseinen palvelu voisi syntyä yksityisenä ammatinharjoittajana.&lt;/p&gt;
-&lt;p&gt;Vakaan harkinnan myötä syntyi myös päätös lähteä ehdolle kuntavaaleihin: olen ehdolla tänä keväänä Järvenpään vihreiden riveissä. Aion käyttää tätä sivua myös vaaleihin liittyvien aatosteni alustana.&lt;/p&gt;</description>
+&lt;p&gt;Partion parissa olin pitkään mukana &lt;a href=&#34;https://uusimaa.partio.fi&#34;&gt;Uudenmaan Partiopiirin&lt;/a&gt; hallituksessa, lisäksi Suomen Partiolaisissa olin järjestämässä &lt;a href=&#34;https://parempaajohtajuutta.fi&#34;&gt;Value Based Leadership&lt;/a&gt; -koulutuksia vuosina 2020-2023.&lt;/p&gt;
+&lt;h2 id=&#34;yhteystiedot&#34;&gt;Yhteystiedot&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;Sähköposti&lt;/dt&gt;
+&lt;dd&gt;koistinen[at]iki.fi&lt;/dd&gt;
+&lt;dt&gt;LinkedIn&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;https://www.linkedin.com/in/anttikoistinen/&#34;&gt;anttikoistinen&lt;/a&gt;&lt;/dd&gt;
+&lt;dt&gt;Instagram&lt;/dt&gt;
+&lt;dd&gt;&lt;a href=&#34;https://www.instagram.com/ajkoistinen/&#34;&gt;@ajkoistinen&lt;/a&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;h2 id=&#34;tieteelliset-julkaisut&#34;&gt;Tieteelliset julkaisut&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Refinability of mercerized softwood kraft pulp. Koistinen A., Wang H., et al. 2024. Cellulose. doi: &lt;a href=&#34;https://doi.org/10.1007/s10570-024-05999-2&#34;&gt;10.1007/s10570-024-05999-2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Effect of pulp prehydrolysis conditions on dissolution and regenerated cellulose pore structure. Koistinen, A., Phiri, J., et al. 2023. Cellulose. doi: &lt;a href=&#34;https://doi.org/10.1007/s10570-023-05050-w&#34;&gt;10.1007/s10570-023-05050-w&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Composites of high-temperature thermomechanical pulps and polylactic acid. Solala, I., Koistinen, A., et al. 2016. BioResources. doi: &lt;a href=&#34;https://doi.org/10.15376/biores.11.1.1125-1140&#34;&gt;10.15376/biores.11.1.1125-1140&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;muut-julkaisut&#34;&gt;Muut julkaisut&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Vaikka tämä kallio tästä häviäisi - suomenkielisen partio Sipoossa 1936-2016. Ikonen, I., Koistinen, A. 2016. Partiolippukunta Sipoon Hukat ry. ISBN: &lt;a href=&#34;https://www.finna.fi/Record/fikka.4241858&#34;&gt;978-952-93-6747-4&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
   </channel>
 </rss>

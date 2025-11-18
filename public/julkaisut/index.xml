@@ -12,8 +12,17 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>fi-FI</language>
     <copyright>Antti Koistinen © 2025</copyright>
-    <lastBuildDate>Wed, 16 Apr 2025 17:56:54 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 11:41:25 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/julkaisut/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Järvenpään vihreät esittää minua Mestaritoiminta Oy:n hallituksen varapuheenjohtajaksi</title>
+      <link>http://localhost:1313/julkaisut/mestaritoiminta_oy_hallitukseen/</link>
+      <pubDate>Mon, 19 May 2025 11:41:25 +0300</pubDate>
+      <guid>http://localhost:1313/julkaisut/mestaritoiminta_oy_hallitukseen/</guid>
+      <description>&lt;p&gt;Järvenpään vihreät esittää minua Mestaritoiminta Oy:n hallituksen varapuheenjohtajaksi. Olen tästä nimityksestä otettu, kiitos luottamuksesta! Uskon, että tämä on merkittävä paikka tehdä vihreää kuntapolitiikkaa Järvenpäässä ja kehittää kaikkien kaupunkilaisten elämään vaikuttavia palveluita.&lt;/p&gt;
+&lt;p&gt;Mestaritoiminta Oy on osa Järvenpään kaupunkikonsernia. Yhtiö tuottaa Järvenpään kaupungille ja kaupunkikonsernille kiinteistöjen ylläpito-, kunnossapito-, rakennuttamis- ja asiantuntijapalveluita. Yhtiö muun muassa toimii rakennuttajana kaupungin rakennushankkeissa.&lt;/p&gt;
+&lt;p&gt;Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valtuustokaudelle kokouksessaan 17.5. Uusi kaupunginvaltuusto aloittaa toimintansa kesäkuussa ja tekee luottamushenkilövalinnat ensimmäisessä kokouksessaan. Mestaritoiminta Oy valitsee hallituksen ja puheenjohtajan yhtiöjärjestyksensä mukaisesti.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ei valtuustoon, mutta matka jatkuu</title>
       <link>http://localhost:1313/julkaisut/vaalien_jalkeen/</link>
@@ -90,17 +99,6 @@
       <pubDate>Wed, 29 Jan 2025 15:16:39 +0200</pubDate>
       <guid>http://localhost:1313/julkaisut/ihmisoikeudet_eivat_ole_sekoilua/</guid>
       <description>Käsittelen tasa-arvoa, ihmisoikeuksia ja sukupuolivähemmistöjen oikeuksia vastauksena perussuomalaisten &amp;#34;Sekoilu seis&amp;#34; -vaaliteemaan. Tuon esille, miksi nämä aiheet ovat tärkeitä turvallisuuden ja talouden näkökulmasta sekä miksi keskustelun jatkaminen on välttämätöntä.</description>
-    </item>
-    <item>
-      <title>Ensimmäinen julkaisu</title>
-      <link>http://localhost:1313/julkaisut/first_post/</link>
-      <pubDate>Mon, 20 Jan 2025 17:06:29 +0200</pubDate>
-      <guid>http://localhost:1313/julkaisut/first_post/</guid>
-      <description>&lt;p&gt;Hei!&lt;/p&gt;
-&lt;p&gt;Tervetuloa sivuilleni! Tällä hetkellä ne ovat vielä hitusen työn alla. Olen kuitenkin aktiivisesti kirjoittamassa tänne lisää sisältöä ja lisäämässä kuvia kaikenlaisesta kiinnostavasta.&lt;/p&gt;
-&lt;p&gt;Ensimmäisenä lisäsin tänne kuitenkin lyhyet esittelytekstit &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;itsestäni&lt;/a&gt; ja tammikuussa &lt;a href=&#34;http://localhost:1313/q-itu/&#34;&gt;perustamastani toiminimestä&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Toiminimeni syntyi tarpeesta: minulta tiedusteltiin voisiko kauttani järjestyä eräs palvelu. Konsultoin pomoani ja omaa harkintaani ja  totesin, että kyseinen palvelu voisi syntyä yksityisenä ammatinharjoittajana.&lt;/p&gt;
-&lt;p&gt;Vakaan harkinnan myötä syntyi myös päätös lähteä ehdolle kuntavaaleihin: olen ehdolla tänä keväänä Järvenpään vihreiden riveissä. Aion käyttää tätä sivua myös vaaleihin liittyvien aatosteni alustana.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

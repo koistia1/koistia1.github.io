@@ -12,9 +12,7 @@ author: Antti Koistinen
 #  caption: "<text>"
 #  relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
-Tutkija ja sivutoiminen yrittäjä Järvenpäästä.
-
-Olen vuodesta 2020 alkaen tehnyt väitöskirjaa Aalto-yliopiston kemian tekniikan korkeakoulussa. Väitöskirjani käsittelee selluloosan reaktiivisuutta, ja tutkimukseni keskeisiä sovelluskohteita löytyy esimerkiksi uusien tekstiilikuitujen alueelta. Pääsen väittelemään todennäköisesti kesään 2025 mennessä.
+Olen vuodesta 2020 alkaen tehnyt väitöskirjaa Aalto-yliopiston kemian tekniikan korkeakoulussa. Väitöskirjani käsittelee selluloosan reaktiivisuutta, ja tutkimukseni keskeisiä sovelluskohteita löytyy esimerkiksi uusien tekstiilikuitujen alueelta. Väitöskirjani on tällä hetkellä esitarkastuksessa.
 
 Olen aktiivi Järvenpään vihreissä. Harrastuksiini kuuluu mieskuorolaulu [Polyteknikkojen Kuorossa](https://www.polyteknikkojenkuoro.fi) (1. tenori), partio, valokuvaus vanhoilla kameroilla ja vanhan vuoden 1989 Mercedes-Benz 190E -henkilöauton huoltaminen.
 
