@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Antti Koistinen</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content on Antti Koistinen</description>
+    <image>
+      <title>Antti Koistinen</title>
+      <url>http://localhost:1313/img/anttikoistinen-cover.png</url>
+      <link>http://localhost:1313/img/anttikoistinen-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <copyright>Antti Koistinen © 2025</copyright>
+    <lastBuildDate>Mon, 20 Jan 2025 17:32:33 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Mon, 20 Jan 2025 17:32:33 +0200</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>&lt;p&gt;Since 2020, I have been working on my doctoral dissertation at the School of Chemical Engineering at Aalto University. My research focuses on the reactivity of cellulose, with key application areas found for example in emerging textile fibers. My dissertation is currently under pre-examination.&lt;/p&gt;
+&lt;p&gt;I founded a private enterpreneuship in January 2025 under the name of Q-itu Solutions. As an independent entrepreneur, I offer my expertise to other professionals and companies of various sizes. I have extensive experience in training professionals, preparing and writing public funding applications, and producing both scientific texts and accessible summaries of research and technology topics.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

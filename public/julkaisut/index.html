@@ -10,7 +10,7 @@
 <meta name="description" content="Julkaisut - Antti Koistinen">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/julkaisut/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.9de45e225101e4f99701d2b68fc6b8a1ef6027928be6391fa15bf7f56326c909.css" integrity="sha256-neReIlEB5PmXAdK2j8a4oe9gJ5KL5jkfoVv39WMmyQk=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.fd5566c526ae48aadabd950798a2dc3568536401560eae5caac3765a42a9e7b5.css" integrity="sha256-/VVmxSauSKravZUHmKLcNWhTZAFWDq5cqsN2WkKp57U=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/img/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/img/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/img/favicon-32x32.png">
@@ -60,24 +60,12 @@
 
 </head>
 
-<body class="list" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-    }
-
-</script>
-
-<header class="header">
+<body class="list" id="top"><header class="header">
     <nav class="nav">
         <div class="logo">
             <a href="http://localhost:1313/" accesskey="h" title="Antti Koistinen (Alt + H)">Antti Koistinen</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                         stroke-linejoin="round">
@@ -97,6 +85,12 @@
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
                 </button>
+                    <ul class="lang-switch"><li>|</li>
+                        <li>
+                            <a href="http://localhost:1313/en/" title="English"
+                                aria-label="English">En</a>
+                        </li>
+                    </ul>
             </div>
         </div>
         <ul id="menu">
@@ -131,12 +125,13 @@ Mestaritoiminta Oy on osa Järvenpään kaupunkikonsernia. Yhtiö tuottaa Järve
 Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valtuustokaudelle kokouksessaan 17.5. Uusi kaupunginvaltuusto aloittaa toimintansa kesäkuussa ja tekee luottamushenkilövalinnat ensimmäisessä kokouksessaan. Mestaritoiminta Oy valitsee hallituksen ja puheenjohtajan yhtiöjärjestyksensä mukaisesti.
 ...</p>
   </div>
-  <footer class="entry-footer"><span title='2025-05-19 11:41:25 +0300 EEST'>toukokuuta 19, 2025</span></footer>
+  <footer class="entry-footer"><span title='2025-05-19 11:41:25 +0300 EEST'>19. toukokuuta 2025</span></footer>
   <a class="entry-link" aria-label="post link to Järvenpään vihreät esittää minua Mestaritoiminta Oy:n hallituksen varapuheenjohtajaksi" href="http://localhost:1313/julkaisut/mestaritoiminta_oy_hallitukseen/"></a>
 </article>
 
 <article class="post-entry"> 
-<figure class="entry-cover"><img loading="lazy" src="http://localhost:1313/julkaisut/imgs/vaalitiimi.jpg" alt="Järvenpään vihreiden kuntavaaliehdokkaat 2025">
+<figure class="entry-cover">
+        <img loading="lazy" src="http://localhost:1313/julkaisut/imgs/vaalitiimi.jpg" alt="Järvenpään vihreiden kuntavaaliehdokkaat 2025">
 </figure>
   <header class="entry-header">
     <h2 class="entry-hint-parent">Ei valtuustoon, mutta matka jatkuu
@@ -145,7 +140,7 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
   <div class="entry-content">
     <p>Tässä kirjoituksessa vähän ajatuksiani kuntavaaleista 2025. En tullut valituksi, mutta sain 38 arvokasta ääntä! Kampanja oli hieno kokemus, ja työ Järvenpään hyväksi jatkuu.</p>
   </div>
-  <footer class="entry-footer"><span title='2025-04-16 17:56:54 +0300 EEST'>huhtikuuta 16, 2025</span>&nbsp;·&nbsp;Antti Koistinen</footer>
+  <footer class="entry-footer"><span title='2025-04-16 17:56:54 +0300 EEST'>16. huhtikuuta 2025</span>&nbsp;·&nbsp;<span>Antti Koistinen</span></footer>
   <a class="entry-link" aria-label="post link to Ei valtuustoon, mutta matka jatkuu" href="http://localhost:1313/julkaisut/vaalien_jalkeen/"></a>
 </article>
 
@@ -157,7 +152,7 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
   <div class="entry-content">
     <p>Pohdin blogikirjoituksessani Kelan pääjohtajavalinnan viivästymistä ja sitä, miten kokoomuksen toiminta herättää kysymyksiä poliittisesta ohjauksesta ja virkanimitysten läpinäkyvyydestä. Tuon esiin turhautumiseni ja toiveeni siitä, että päätökset tehtäisiin osaamisen, ei puoluekirjan, perusteella.</p>
   </div>
-  <footer class="entry-footer"><span title='2025-04-11 15:48:22 +0300 EEST'>huhtikuuta 11, 2025</span>&nbsp;·&nbsp;Antti Koistinen</footer>
+  <footer class="entry-footer"><span title='2025-04-11 15:48:22 +0300 EEST'>11. huhtikuuta 2025</span>&nbsp;·&nbsp;<span>Antti Koistinen</span></footer>
   <a class="entry-link" aria-label="post link to Kelan pääjohtajavalinta mittaa kokoomuksen johdonmukaisuuden" href="http://localhost:1313/julkaisut/kela/"></a>
 </article>
 
@@ -169,7 +164,7 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
   <div class="entry-content">
     <p>Tässä kirjoituksessa neuvon, miten pääset melko helposti eroon persikanvärisestä taustasta tietyssä verkkosivustossa.</p>
   </div>
-  <footer class="entry-footer"><span title='2025-04-07 17:22:25 +0300 EEST'>huhtikuuta 7, 2025</span>&nbsp;·&nbsp;Antti Koistinen</footer>
+  <footer class="entry-footer"><span title='2025-04-07 17:22:25 +0300 EEST'>7. huhtikuuta 2025</span>&nbsp;·&nbsp;<span>Antti Koistinen</span></footer>
   <a class="entry-link" aria-label="post link to Kuinka pääset helposti eroon persikasta taustaväristä sillä yhdellä nettisivulla" href="http://localhost:1313/julkaisut/hs_visio/"></a>
 </article>
 
@@ -181,7 +176,7 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
   <div class="entry-content">
     <p>Tuusulan pormestariehdokkaan vaalilehdestä löytyy Trump-myönteisiä sävyjä, joita ei pidä ohittaa kevyesti.</p>
   </div>
-  <footer class="entry-footer"><span title='2025-04-04 10:42:41 +0300 EEST'>huhtikuuta 4, 2025</span></footer>
+  <footer class="entry-footer"><span title='2025-04-04 10:42:41 +0300 EEST'>4. huhtikuuta 2025</span></footer>
   <a class="entry-link" aria-label="post link to Onko Tuusulakin omaksumassa Trumpin retoriikan?" href="http://localhost:1313/julkaisut/onko_tuusulakin_omaksumassa_trumpin_retoriikan/"></a>
 </article>
 
@@ -193,7 +188,7 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
   <div class="entry-content">
     <p>A short guide for foreigners on voting in Finland’s municipal and county elections in April 2025. Find out who is eligible, how and where to vote, and why your vote matters.</p>
   </div>
-  <footer class="entry-footer"><span title='2025-04-03 16:28:34 +0300 EEST'>huhtikuuta 3, 2025</span>&nbsp;·&nbsp;Antti Koistinen</footer>
+  <footer class="entry-footer"><span title='2025-04-03 16:28:34 +0300 EEST'>3. huhtikuuta 2025</span>&nbsp;·&nbsp;<span>Antti Koistinen</span></footer>
   <a class="entry-link" aria-label="post link to Municipal and county elections in Finland: a short guide for foreigners" href="http://localhost:1313/julkaisut/municipal_elections/"></a>
 </article>
 
@@ -205,7 +200,7 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
   <div class="entry-content">
     <p>Järvenpää on säästänyt investoinneista ja leikannut palveluita, mikä luo tulevaisuuteen korjausvelkaa. Nyt olisi aika panostaa järkevästi kasvuun ja investointeihin.</p>
   </div>
-  <footer class="entry-footer"><span title='2025-03-31 16:43:25 +0300 EEST'>maaliskuuta 31, 2025</span>&nbsp;·&nbsp;Antti Koistinen</footer>
+  <footer class="entry-footer"><span title='2025-03-31 16:43:25 +0300 EEST'>31. maaliskuuta 2025</span>&nbsp;·&nbsp;<span>Antti Koistinen</span></footer>
   <a class="entry-link" aria-label="post link to Kannattaisiko sittenkin investoida hyvän sään aikana?" href="http://localhost:1313/julkaisut/investoi_hyvan_saan_aikana/"></a>
 </article>
 
@@ -217,7 +212,7 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
   <div class="entry-content">
     <p>Politiikka ei tarvitse lisää vastakkainasettelua, vaan enemmän empatiaa. Tässä kirjoituksessa pohdin, miksi poliittinen vastustaja ei ole vihollinen ; ja miten voimme rakentaa inhimillisempää keskustelukulttuuria myös silloin, kun olemme eri mieltä.</p>
   </div>
-  <footer class="entry-footer"><span title='2025-03-27 11:14:24 +0200 EET'>maaliskuuta 27, 2025</span>&nbsp;·&nbsp;Antti Koistinen</footer>
+  <footer class="entry-footer"><span title='2025-03-27 11:14:24 +0200 EET'>27. maaliskuuta 2025</span>&nbsp;·&nbsp;<span>Antti Koistinen</span></footer>
   <a class="entry-link" aria-label="post link to Empatia vaalikentillä – miksi poliittinen vastustaja ei ole vihollinen?" href="http://localhost:1313/julkaisut/empaattisempi_politiikka/"></a>
 </article>
 
@@ -229,7 +224,7 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
   <div class="entry-content">
     <p>Lajismista kuntapolitiikkaan – miksi eläinten oikeudet kuuluvat myös vaaliteemoihin</p>
   </div>
-  <footer class="entry-footer"><span title='2025-02-23 19:50:16 +0200 EET'>helmikuuta 23, 2025</span>&nbsp;·&nbsp;Antti Koistinen</footer>
+  <footer class="entry-footer"><span title='2025-02-23 19:50:16 +0200 EET'>23. helmikuuta 2025</span>&nbsp;·&nbsp;<span>Antti Koistinen</span></footer>
   <a class="entry-link" aria-label="post link to Lajismi, eläintuotanto ja kuntapolitiikka – miksi meidän on aika kyseenalaistaa eläinperäinen ruokavalio?" href="http://localhost:1313/julkaisut/lajismi_elaintuotanto_ja_kuntapolitiikka_-_miksi_meidan_on_aika_kyseenalaistaa_elainperainen_ruokavalio/"></a>
 </article>
 
@@ -241,12 +236,12 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
   <div class="entry-content">
     <p>Olin ehdolla vuoden 2025 kuntavaaleissa Järvenpäässä Vihreiden listalla. Tällä sivulla kerron tärkeimmistä vaaliteemoistani.</p>
   </div>
-  <footer class="entry-footer"><span title='2025-02-09 11:39:18 +0200 EET'>helmikuuta 9, 2025</span></footer>
+  <footer class="entry-footer"><span title='2025-02-09 11:39:18 +0200 EET'>9. helmikuuta 2025</span></footer>
   <a class="entry-link" aria-label="post link to Kuntavaalit 2025" href="http://localhost:1313/julkaisut/kuntavaalit_2025/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">
-    <a class="next" href="http://localhost:1313/julkaisut/page/2/">&nbsp;&nbsp;»
+    <a class="next" href="http://localhost:1313/julkaisut/page/2/">Seuraava&nbsp;&nbsp;»
     </a>
   </nav>
 </footer>
@@ -268,9 +263,14 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
 </a>
 
 <script>
-    let menu = document.getElementById('menu')
+    let menu = document.getElementById('menu');
     if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
         menu.onscroll = function () {
             localStorage.setItem("menu-scroll-position", menu.scrollLeft);
         }
@@ -311,11 +311,12 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
 </script>
 <script>
     document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
             localStorage.setItem("pref-theme", 'light');
         } else {
-            document.body.classList.add('dark');
+            html.dataset.theme = 'dark';
             localStorage.setItem("pref-theme", 'dark');
         }
     })

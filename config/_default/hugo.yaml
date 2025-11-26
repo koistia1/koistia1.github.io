@@ -5,7 +5,17 @@ copyright: Antti Koistinen © 2025
 
 # setting page language to Finnish
 defaultContentLanguage: fi
+defaultContentLanguageInSubdir: false
 languageCode: fi-FI
+languages:
+  fi:
+    languageName: "Suomi"
+    weight: 1
+  en:
+    languageName: "English"
+    weight: 2
+
+      
 
 sectionPagesMenu: main
 pluralizeListTitles: false
@@ -30,12 +40,12 @@ params:
   socialIcons:
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/anttikoistinen/"
-    - name: "Instagram"
-      url: "https://www.instagram.com/ajkoistinen/"
+    #- name: "Instagram"
+    #  url: "https://www.instagram.com/ajkoistinen/"
     - name: "Bluesky"
       url: "https://bsky.app/profile/anttikoistinen.fi"
-    - name: "Facebook"
-      url: "https://www.facebook.com/antti.j.koistinen"
+    #- name: "Facebook"
+    #  url: "https://www.facebook.com/antti.j.koistinen"
   
   assets:
     favicon: "/img/favicon.ico"

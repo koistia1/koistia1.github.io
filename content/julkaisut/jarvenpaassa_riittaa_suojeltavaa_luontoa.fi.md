@@ -15,7 +15,7 @@ Keravanjoki halkoo Järvenpäätä pohjois-eteläsuunnassa sen itäisellä laida
 
 ### Haarajoen mylly ja pato
 
-Haarajoelta löytyy Järvenpään ainoa koski, jossa on ollut Haarajoen mylly jo 1700-luvulta lähtien. Tämä historiallinen kohde on ainutlaatuinen osa Järvenpään maisemaa, ja sen merkitys muuttuu lähivuosina entisestään: [pato on päätetty purkaa]("https://www.jarvenpaa.fi/asuminen-ja-ymparisto/ymparisto-ja-luonto/vesiensuojelu/haarajoen-pato"). Pato on pitkään estänyt vaelluskalojen kulkua, mutta purkamisen jälkeen koskialue voidaan kunnostaa, ja yksi vesireitti lisää aukeaa lohikalojen ja muiden virtavesilajien käyttöön. Tämä on merkittävä askel kohti luonnon monimuotoisuuden elvyttämistä ja vesiekosysteemin parantamista; myllystä ja sen vaikutuksista vesistöön voi lukea enemmän [Vantaanjoen ja Helsingin seudun vesiensuojeluyhdistyksen sivuilta]("https://www.vantaanjoennousu.org/kaitarannankoski-ja-haarajoen-mylly").
+Haarajoelta löytyy Järvenpään ainoa koski, jossa on ollut Haarajoen mylly jo 1700-luvulta lähtien. Tämä historiallinen kohde on ainutlaatuinen osa Järvenpään maisemaa, ja sen merkitys muuttuu lähivuosina entisestään: pato on päätetty purkaa. Pato on pitkään estänyt vaelluskalojen kulkua, mutta purkamisen jälkeen koskialue voidaan kunnostaa, ja yksi vesireitti lisää aukeaa lohikalojen ja muiden virtavesilajien käyttöön. Tämä on merkittävä askel kohti luonnon monimuotoisuuden elvyttämistä ja vesiekosysteemin parantamista; myllystä ja sen vaikutuksista vesistöön voi lukea enemmän [Vantaanjoen ja Helsingin seudun vesiensuojeluyhdistyksen sivuilta](https://www.vantaanjoennousu.org/kaitarannankoski-ja-haarajoen-mylly).
 
 ### Lemmenlaakson lehto – Järvenpään suurin luonnonsuojelualue
 

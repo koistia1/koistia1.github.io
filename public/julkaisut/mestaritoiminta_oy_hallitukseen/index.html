@@ -12,7 +12,7 @@ Mestaritoiminta Oy on osa Järvenpään kaupunkikonsernia. Yhtiö tuottaa Järve
 Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valtuustokaudelle kokouksessaan 17.5. Uusi kaupunginvaltuusto aloittaa toimintansa kesäkuussa ja tekee luottamushenkilövalinnat ensimmäisessä kokouksessaan. Mestaritoiminta Oy valitsee hallituksen ja puheenjohtajan yhtiöjärjestyksensä mukaisesti.">
 <meta name="author" content="">
 <link rel="canonical" href="http://localhost:1313/julkaisut/mestaritoiminta_oy_hallitukseen/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.9de45e225101e4f99701d2b68fc6b8a1ef6027928be6391fa15bf7f56326c909.css" integrity="sha256-neReIlEB5PmXAdK2j8a4oe9gJ5KL5jkfoVv39WMmyQk=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.fd5566c526ae48aadabd950798a2dc3568536401560eae5caac3765a42a9e7b5.css" integrity="sha256-/VVmxSauSKravZUHmKLcNWhTZAFWDq5cqsN2WkKp57U=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/img/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/img/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/img/favicon-32x32.png">
@@ -61,24 +61,12 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
 
 </head>
 
-<body class="" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-    }
-
-</script>
-
-<header class="header">
+<body class="" id="top"><header class="header">
     <nav class="nav">
         <div class="logo">
             <a href="http://localhost:1313/" accesskey="h" title="Antti Koistinen (Alt + H)">Antti Koistinen</a>
             <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
                         fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                         stroke-linejoin="round">
@@ -98,6 +86,12 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
                         <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
                     </svg>
                 </button>
+                    <ul class="lang-switch"><li>|</li>
+                        <li>
+                            <a href="http://localhost:1313/en/" title="English"
+                                aria-label="English">En</a>
+                        </li>
+                    </ul>
             </div>
         </div>
         <ul id="menu">
@@ -122,7 +116,7 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
     <h1 class="post-title entry-hint-parent">
       Järvenpään vihreät esittää minua Mestaritoiminta Oy:n hallituksen varapuheenjohtajaksi
     </h1>
-    <div class="post-meta"><span title='2025-05-19 11:41:25 +0300 EEST'>toukokuuta 19, 2025</span>
+    <div class="post-meta"><span title='2025-05-19 11:41:25 +0300 EEST'>19. toukokuuta 2025</span>
 
 </div>
   </header> 
@@ -156,9 +150,14 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
 </a>
 
 <script>
-    let menu = document.getElementById('menu')
+    let menu = document.getElementById('menu');
     if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
+        
+        const scrollPosition = localStorage.getItem("menu-scroll-position");
+        if (scrollPosition) {
+            menu.scrollLeft = parseInt(scrollPosition, 10);
+        }
+        
         menu.onscroll = function () {
             localStorage.setItem("menu-scroll-position", menu.scrollLeft);
         }
@@ -199,11 +198,12 @@ Järvenpään Vihreät ry päätti luottamuspaikkojen jakamisesta tulevalle valt
 </script>
 <script>
     document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
+        const html = document.querySelector("html");
+        if (html.dataset.theme === "dark") {
+            html.dataset.theme = 'light';
             localStorage.setItem("pref-theme", 'light');
         } else {
-            document.body.classList.add('dark');
+            html.dataset.theme = 'dark';
             localStorage.setItem("pref-theme", 'dark');
         }
     })
