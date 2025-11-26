@@ -2,7 +2,9 @@
 date: '2025-01-20T17:32:33+02:00'
 draft: false
 title: 'About'
-menus: main
+menus:
+  main:
+    weight: 1
 author: Antti Koistinen
 #cover:
 #  image: "https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png"

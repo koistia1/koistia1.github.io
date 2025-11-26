@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2025-02-24T09:22:32+02:00</lastmod>
+    <lastmod>2025-04-03T16:28:34+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fi"
@@ -13,6 +13,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/julkaisut/municipal_elections/</loc>
+    <lastmod>2025-04-03T16:28:34+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/julkaisut/</loc>
+    <lastmod>2025-04-03T16:28:34+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fi"
+                href="http://localhost:1313/julkaisut/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/julkaisut/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/about/</loc>

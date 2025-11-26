@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Julkaisut on Antti Koistinen</title>
+    <title>Publications on Antti Koistinen</title>
     <link>http://localhost:1313/en/julkaisut/</link>
-    <description>Recent content in Julkaisut on Antti Koistinen</description>
+    <description>Recent content in Publications on Antti Koistinen</description>
     <image>
       <title>Antti Koistinen</title>
       <url>http://localhost:1313/img/anttikoistinen-cover.png</url>
@@ -12,6 +12,14 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>Antti Koistinen © 2025</copyright>
+    <lastBuildDate>Thu, 03 Apr 2025 16:28:34 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/en/julkaisut/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Municipal and county elections in Finland: a short guide for foreigners</title>
+      <link>http://localhost:1313/en/julkaisut/municipal_elections/</link>
+      <pubDate>Thu, 03 Apr 2025 16:28:34 +0300</pubDate>
+      <guid>http://localhost:1313/en/julkaisut/municipal_elections/</guid>
+      <description>A short guide for foreigners on voting in Finland’s municipal and county elections in April 2025. Find out who is eligible, how and where to vote, and why your vote matters.</description>
+    </item>
   </channel>
 </rss>
