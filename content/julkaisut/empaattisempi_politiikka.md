@@ -1,6 +1,6 @@
 ---
 date: 2025-03-27T11:14:24+02:00
-draft: false
+draft: true
 title: 'Empatia vaalikentillä – miksi poliittinen vastustaja ei ole vihollinen?'
 author: Antti Koistinen
 description: 'Politiikka ei tarvitse lisää vastakkainasettelua, vaan enemmän empatiaa. Tässä kirjoituksessa pohdin, miksi poliittinen vastustaja ei ole vihollinen, ja miten voimme rakentaa inhimillisempää keskustelukulttuuria myös silloin, kun olemme eri mieltä.'

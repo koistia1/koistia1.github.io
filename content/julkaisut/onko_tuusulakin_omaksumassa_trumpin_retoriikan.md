@@ -1,6 +1,6 @@
 ---
 date: '2025-04-04T10:42:41+03:00'
-draft: false
+draft: true
 title: 'Onko Tuusulakin omaksumassa Trumpin retoriikan?'
 description: 'Tuusulan pormestariehdokkaan vaalilehdestä löytyy Trump-myönteisiä sävyjä, joita ei pidä ohittaa kevyesti.'
 summary: 'Tuusulan pormestariehdokkaan vaalilehdestä löytyy Trump-myönteisiä sävyjä, joita ei pidä ohittaa kevyesti.'

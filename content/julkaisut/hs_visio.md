@@ -1,6 +1,6 @@
 ---
 date: '2025-04-07T17:22:25+03:00'
-draft: false
+draft: true
 title: 'Kuinka pääset helposti eroon persikasta taustaväristä sillä yhdellä nettisivulla'
 summary: 'Tässä kirjoituksessa neuvon, miten pääset melko helposti eroon persikanvärisestä taustasta tietyssä verkkosivustossa.'
 description: 'Tässä kirjoituksessa neuvon, miten pääset melko helposti eroon persikanvärisestä taustasta tietyssä verkkosivustossa.'

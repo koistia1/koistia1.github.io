@@ -1,6 +1,6 @@
 ---
 date: '2025-04-11T15:48:22+03:00'
-draft: false
+draft: true
 title: 'Kelan pääjohtajavalinta mittaa kokoomuksen johdonmukaisuuden'
 description: 'Pohdin blogikirjoituksessani Kelan pääjohtajavalinnan viivästymistä ja sitä, miten kokoomuksen toiminta herättää kysymyksiä poliittisesta ohjauksesta ja virkanimitysten läpinäkyvyydestä. Tuon esiin turhautumiseni ja toiveeni siitä, että päätökset tehtäisiin osaamisen, ei puoluekirjan, perusteella.'
 summary: 'Pohdin blogikirjoituksessani Kelan pääjohtajavalinnan viivästymistä ja sitä, miten kokoomuksen toiminta herättää kysymyksiä poliittisesta ohjauksesta ja virkanimitysten läpinäkyvyydestä. Tuon esiin turhautumiseni ja toiveeni siitä, että päätökset tehtäisiin osaamisen, ei puoluekirjan, perusteella.'
