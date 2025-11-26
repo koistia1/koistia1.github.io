@@ -41,3 +41,8 @@ Y-tunnus (Q-itu Solutions Toiminimi)
 ## Muut julkaisut
 
 1. Vaikka tämä kallio tästä häviäisi - suomenkielisen partio Sipoossa 1936-2016. Ikonen, I., Koistinen, A. 2016. Partiolippukunta Sipoon Hukat ry. ISBN: [978-952-93-6747-4](https://www.finna.fi/Record/fikka.4241858)
+
+## Kunnalliset luottamustehtävät
+
+* Mestaritoiminta Oy, hallituksen varapuheenjohtaja
+* Keskisen Uudenmaan Musiikkiopisto, johtokunnan varajäsen
