@@ -1,6 +1,6 @@
 ---
 date: '2026-02-26T11:55:34+02:00'
-draft: true
+draft: false
 title: 'Olenko luddiitti vai luonnonsuojelija, kun en pidä datakeskuksista?'
 ---
 Viime viikolla lähetin *Keski-Uusimaa* -paikallislehteemme mielipidekirjoituksen datakeskuksista. Silläkin uhalla että kuulostan valtavalta luddiitilta (selvä keski-ikäistymisen merkki, tämäkin), halusin avata keskustelua nykyisen elämänmenomme hinnasta: kissavideot Instagram-reelsissä ja Youtubessa ovat toki mukavia, mutta olemmeko valmiit siihen, että jokaisessa niemennokassa on pian datakeskus? 
