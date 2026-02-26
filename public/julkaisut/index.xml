@@ -12,8 +12,25 @@
     <generator>Hugo -- 0.145.0</generator>
     <language>fi</language>
     <copyright>Antti Koistinen © 2025</copyright>
-    <lastBuildDate>Mon, 19 May 2025 11:41:25 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 12:32:45 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/julkaisut/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mitä yhteistä on Androidilla, D&amp;D:llä ja tieteellisellä julkaisemisella?</title>
+      <link>http://localhost:1313/julkaisut/2026-02-26/</link>
+      <pubDate>Thu, 26 Feb 2026 12:32:45 +0200</pubDate>
+      <guid>http://localhost:1313/julkaisut/2026-02-26/</guid>
+      <description>&lt;p&gt;Mitä yhteistä on maailman yleisimmällä älypuhelinkäyttöjärjestelmällä&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; Androidilla, &lt;em&gt;Dungeons and Dragons&lt;/em&gt; -pöytäroolipelillä sekä tieteellisellä julkaisemisella? Kaikkien parissa puuhailee uskomattomia nörttejä? No se ainakin pitää paikkansa.&lt;/p&gt;
+&lt;p&gt;Kaikkia näitä yhdistää valtavan maailmanlaajuisen suosionsa lisäksi avoimien lisenssien soveltaminen julkaisemisessa. Tässä kirjoituksessa kerron vähän tarkemmin mistä avoimissa lisensseissä on kyse, ja miten ne ovat taustalla kaikkien näiden kolmen melko nörtihtävän aihealueen historiassa &amp;ndash; ja kunkin läpimurrossa.&lt;/p&gt;
+&lt;p&gt;Aloitetaan Androidista, koska sen sisällä sykkii yllättäen suomalainen sydän.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Olenko luddiitti vai luonnonsuojelija, kun en pidä datakeskuksista?</title>
+      <link>http://localhost:1313/julkaisut/datakeskuksista/</link>
+      <pubDate>Thu, 26 Feb 2026 11:55:34 +0200</pubDate>
+      <guid>http://localhost:1313/julkaisut/datakeskuksista/</guid>
+      <description>&lt;p&gt;Viime viikolla lähetin &lt;em&gt;Keski-Uusimaa&lt;/em&gt; -paikallislehteemme mielipidekirjoituksen datakeskuksista. Silläkin uhalla että kuulostan valtavalta luddiitilta (selvä keski-ikäistymisen merkki, tämäkin), halusin avata keskustelua nykyisen elämänmenomme hinnasta: kissavideot Instagram-reelsissä ja Youtubessa ovat toki mukavia, mutta olemmeko valmiit siihen, että jokaisessa niemennokassa on pian datakeskus?&lt;/p&gt;
+&lt;p&gt;Entä onko kaikista ihan ok, että keskuksen pyörittämisen voitot valuvat yhdysvaltalaisille firmoille? Kotimaisen ja eurooppalaisen tieto-osaamisen ja infrastruktuurin vahvistamisesta voisi kirjoitella pidemmätkin tarinat, jätettäköön tämä aihe siis hetkeksi vain tämän toteamuksen varaan: olemme yhteiskuntana täysin riippuvaisia yhdysvaltalaisista tietokoneohjelmistoista ja datakeskusinfrastruktuureista.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Järvenpään vihreät esittää minua Mestaritoiminta Oy:n hallituksen varapuheenjohtajaksi</title>
       <link>http://localhost:1313/julkaisut/mestaritoiminta_oy_hallitukseen/</link>

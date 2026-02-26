@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-19T11:41:25+03:00</lastmod>
+    <lastmod>2026-02-26T12:32:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/julkaisut/</loc>
-    <lastmod>2025-05-19T11:41:25+03:00</lastmod>
+    <lastmod>2026-02-26T12:32:45+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,6 +27,12 @@
                 hreflang="fi"
                 href="http://localhost:1313/julkaisut/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/julkaisut/2026-02-26/</loc>
+    <lastmod>2026-02-26T12:32:45+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/julkaisut/datakeskuksista/</loc>
+    <lastmod>2026-02-26T11:55:34+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/julkaisut/mestaritoiminta_oy_hallitukseen/</loc>
     <lastmod>2025-05-19T11:41:25+03:00</lastmod>
