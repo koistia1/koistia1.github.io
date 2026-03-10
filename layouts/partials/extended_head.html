@@ -1,2 +1,10 @@
+{{- /* Misc */}}
+{{- if hugo.IsProduction | or (eq .Site.Params.env "production") }}
+{{- template "partials/cookie-consent.html" . }}
+{{- template "partials/templates/opengraph.html" . }}
+{{- template "partials/templates/twitter_cards.html" . }}
+{{- template "partials/templates/schema_json.html" . }}
+{{ end -}}
+
 <!--Google Analytics-->
 {{ template "_internal/google_analytics.html" . }}
