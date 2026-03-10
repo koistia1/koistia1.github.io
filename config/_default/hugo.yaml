@@ -56,3 +56,5 @@ params:
       - css/custom.css
 
   images: ["img/anttikoistinen-cover.png"]
+  defaultTheme: auto # dark, light, auto
+  disableThemeToggle: false
